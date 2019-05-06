@@ -1,0 +1,857 @@
+added_at,track/album/type,track/duration_ms,track/popularity,track/explicit,playlist,track/album/name,track/artists/0/name,track/name,track/uri
+time,discrete,continuous,continuous,discrete,discrete,string,string,string,string
+,,,,,class,meta,meta,meta,meta
+2018-06-07 21:48:24,album,328000.0,38.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"All For One (From ""Dark Souls III"") [Abyss Watchers]",spotify:track:6Hl5X9cYlRRSEtENKNuTZI
+2018-06-07 21:48:31,album,328000.0,28.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Epitaph for Boletaria (From ""Demon's Souls"") [Maiden in Black]",spotify:track:1dmRorGH4PZK2SNVLqPJR2
+2018-06-07 21:48:37,album,309600.0,27.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Undone by the Blood (From ""Bloodborne"") [The First Hunter]",spotify:track:147dMz2uR9wMNHJQAGthdo
+2018-06-07 21:48:42,album,300840.0,33.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"E.S. Gwyn (From ""Dark Souls"") [Gwyn, Lord of Cinder]",spotify:track:4B55Vz8l4a7zqcfrJQcLY1
+2018-06-07 21:48:50,album,415013.0,28.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"The Profaned Vanguard (From ""Dark Souls III"") [Yhorm The Giant]",spotify:track:7qmNq3ADGfDwQMfhUrRCVX
+2018-06-07 21:48:58,album,256486.0,28.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Moonlit Beast (From ""Bloodborne"" & ""King's Field IV"") [Cleric Beast & Dark Reality]",spotify:track:5UMnFL13wTpTblRMq7unXX
+2018-06-07 21:49:04,album,312920.0,27.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"The Fall of Artorias (From ""Dark Souls"") [Knight Artorias]",spotify:track:1bk2I7ObXc1cDRVIrK8N6m
+2018-06-07 21:49:12,album,260533.0,32.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"E.S. Cinder (From ""Dark Souls III"") [Soul of Cinder]",spotify:track:5puW7cuNCpfK9DSEjNizqF
+2018-06-07 21:49:21,album,274247.0,31.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Gehrman and Maria (From ""Bloodborne"") [Lady Maria of the Astral Clocktower]",spotify:track:1SXUPLaRGhUYo8U0DRIAob
+2018-06-07 21:49:30,album,347666.0,23.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Kindle the Soul (From ""Dark Souls"") [Firelink Shrine]",spotify:track:6bkxVVqVNNBcqRENUB6DNR
+2018-06-07 21:49:37,album,259200.0,31.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"The Curse That Binds Us (From ""Dark Souls III"") [Lorian, Elder Prince & Lothric, Younger Prince]",spotify:track:36Gg5h3RmnM9hoEfDiK2mz
+2018-06-07 21:49:46,album,254893.0,25.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Knight and Executioner (From ""Dark Souls"") [Ornstein and Smough]",spotify:track:55MaqzbjL8zwwvtTh4BAvq
+2018-06-07 21:50:08,album,290213.0,28.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"I Had A Name (From ""Dark Souls"") [Nameless Song]",spotify:track:6bkqK0y1slwJjZNJdLBq3J
+2018-06-07 21:50:16,album,227586.0,33.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Uncle Gael (From ""Dark Souls III"") [Slave Knight Gael]",spotify:track:7qmBSj4yLxGIRuXcy4rSD9
+2018-06-07 21:50:23,album,714360.0,26.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Journey's End (From ""Dark Souls III"") [Epilogue]",spotify:track:7gHPjCVunROeKWcsuxivDN
+2018-06-07 21:55:53,album,260533.0,29.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"E.S. Cinder 'Orchestra' (From ""Dark Souls III"") [Soul of Cinder]",spotify:track:4Qiz2yv7NbSLDxQvG9Rup0
+2018-06-07 21:55:57,album,289066.0,25.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Kodoku (From ""Dark Souls II"") [Sir Alonne]",spotify:track:61kVYlz4yz8uuVT1JpLvH5
+2018-06-07 21:56:11,album,283800.0,29.0,false,playlist_1,Legacy (Soulsborne Remixed),Alex Roe,"Spartans of the Church (From ""Bloodborne"") [Ludwig, the Holy Blade]",spotify:track:7oTzZMVJQs5oejHEfk9CAT
+2019-02-07 01:41:59,album,226506.0,66.0,false,playlist_2,Jeremih,Jeremih,Birthday Sex,spotify:track:16XNk3bVCSHXN1rlwbXtHb
+2019-02-07 02:15:55,album,206653.0,49.0,false,playlist_2,The Answers,SoMo,First,spotify:track:64ZUFfGyxeHvfQ1EHJf3Pp
+2019-02-07 02:21:08,album,202746.0,78.0,true,playlist_2,Mind Of Mine (Deluxe Edition),ZAYN,PILLOWTALK,spotify:track:0PDUDa38GO8lMxLCRc4lL1
+2019-02-07 02:23:37,album,232906.0,62.0,false,playlist_2,Looking 4 Myself (Expanded Edition),Usher,Climax,spotify:track:5pyVqlqThcxI7tPDjHIzPh
+2019-02-07 23:44:08,album,177093.0,79.0,true,playlist_2,Hoje Eu Vou Parar Na Gaiola,Mc Livinho,Hoje Eu Vou Parar Na Gaiola,spotify:track:0IQCOAw9ZAI6WnXIrl481F
+2019-02-07 23:46:44,album,146086.0,70.0,false,playlist_2,Kikadinha,Jerry Smith,Kikadinha,spotify:track:5TUYLsiIi3tuvR2fCJjZUy
+2019-02-07 23:53:35,album,192156.0,54.0,false,playlist_2,"Greatest Hits, Vol. 1",Nicky Jam,Juegos Prohibidos,spotify:track:07Z5WXxcQC7FjUcJcq3z0c
+2019-02-07 23:55:04,album,221053.0,60.0,false,playlist_2,"Pretty Boy, Dirty Boy",Maluma,Sin Contrato,spotify:track:3yHJs5NmQk2ROAWCfjniXV
+2019-02-08 00:00:38,album,153652.0,67.0,true,playlist_2,Brota Na Penha,Mc Livinho,Brota Na Penha,spotify:track:3qG7r3UItaZrwtPPUhNXKX
+2019-02-08 00:02:39,album,262687.0,67.0,true,playlist_2,Melhor Viagem,Gaab,Tem Café,spotify:track:4lNriuYNZD2YP2OPG6xOte
+2019-02-08 00:29:26,album,289133.0,59.0,true,playlist_2,SoMo,SoMo,Ride,spotify:track:3yhhVI7szVLsqVKt9gg01e
+2010-10-02 13:00:54,album,178666.0,1.0,false,playlist_3,The Songs of Wasteland: Music as heard in Fallout 3 - EP,The Ink Spots,I Don't Want To Set the World On Fire,spotify:track:5BQLFGCDxrMklI70r1JjJ9
+2010-10-02 13:00:57,album,182786.0,3.0,false,playlist_3,The Songs of Wasteland: Music as heard in Fallout 3 - EP,Billie Holiday,Crazy He Calls Me,spotify:track:4UijURYBXtsAQ3Qte9P3z7
+2010-10-02 13:01:01,album,192173.0,3.0,false,playlist_3,The Songs of Wasteland: Music as heard in Fallout 3 - EP,Ella Fitzgerald,Into Each Life Some Rain Must Fall,spotify:track:1antLybQoWgahvRksuGmMc
+2010-10-02 13:01:05,album,183466.0,1.0,false,playlist_3,The Songs of Wasteland: Music as heard in Fallout 3 - EP,The Andrews Sisters,"Civilization (Bongo, Bongo, Bongo)",spotify:track:17K0nITjaXnyWXBB0pxmvU
+2010-10-02 13:01:08,album,187520.0,0.0,false,playlist_3,The Songs of Wasteland: Music as heard in Fallout 3 - EP,The Ink Spots,Maybe,spotify:track:17zojUZck6m8N5hXtgLtiP
+2010-10-02 13:01:13,album,185600.0,2.0,false,playlist_3,The Songs of Wasteland: Music as heard in Fallout 3 - EP,Billie Holiday,Easy Living,spotify:track:23QgV9Tz2jiQtVyNLbOqy1
+2010-10-02 13:01:21,album,144116.0,1.0,false,playlist_3,Golden Decade - Music Of My Life (Book 03),Roy Brown,Butcher Pete,spotify:track:1jltATYx5GJIesje62qdw4
+2010-10-02 13:04:10,album,174823.0,50.0,false,playlist_3,Bob Crosby and the Bobcats: The Complete Standard Transcriptions,Bob Crosby & The Bob Cats,Way Back Home,spotify:track:2Mqggm27ZkH3EyscmCDnIg
+2010-10-02 13:10:45,album,147173.0,38.0,false,playlist_3,"Ham Hocks & Cornbread, Vol. B",Roy Brown,Mighty Mighty Man,spotify:track:3RVlXSaYyd1JOyXPbnE9IV
+2010-10-02 13:21:04,album,180040.0,1.0,false,playlist_3,"Beatin', Bangin' & Scratchin'",Danny Kaye,Happy Times,spotify:track:0ZXDLrn7oIc06JFwvJLy1y
+2010-10-02 13:23:32,album,133120.0,50.0,false,playlist_3,Bob Crosby and the Bobcats: The Complete Standard Transcriptions,Bob Crosby & The Bob Cats,Dear Hearts And Gentle People,spotify:track:4hmKe6YigInvKIPFd1xT03
+2010-10-02 13:28:26,album,188440.0,45.0,false,playlist_3,It's De Lovely: The Authentic Cole Porter Collection,Cole Porter,Anything Goes (with Vince Giordano & The Nighthawks),spotify:track:0oulhgKMk5RUADidNicdky
+2010-10-02 13:29:32,album,115696.0,49.0,false,playlist_3,Tex Beneke And His Music In The Miller Mood,Tex Beneke,A Wonderful Guy,spotify:track:7DKjnQH7yeCUPXX88Hh12p
+2010-10-02 13:33:03,album,158840.0,31.0,false,playlist_3,J.P. Sousa's Marches & Dances,United States Marine Band,The Washington Post,spotify:track:4rwcwWufNLwNDU7VmyuRr7
+2010-10-02 13:34:17,album,84600.0,0.0,false,playlist_3,July 4th,Independence,Halls Of Montezuma - Marine Corps March Music,spotify:track:4LMWjZNjgo9baLaP3BBTSU
+2010-10-08 23:24:00,album,74906.0,28.0,false,playlist_3,Songs Of The Civil War,The United States Military Academy Band,Dixie's land,spotify:track:0KahNDvAi7wI7DI8kgSFq4
+2011-02-14 15:24:32,album,235492.0,0.0,false,playlist_3,Jazz Hits Of The 50s,Mel Tormé,Somethings Gotta Give,spotify:track:6SzIPSGLLBKUTdBwEPQCPa
+2011-02-14 15:24:32,album,146080.0,46.0,false,playlist_3,The Essential Eddy Arnold,Eddy Arnold,It's a Sin,spotify:track:1wK9cRMY8HBmRLiNm72MBG
+2011-02-14 15:24:32,album,171426.0,55.0,false,playlist_3,Sinatra's Swingin' Session!!! And More (Remastered),Frank Sinatra,Blue Moon - 1998 Digital Remaster,spotify:track:5RLzsVW6UNiV2YrOlKwzNN
+2011-02-14 15:24:32,album,177760.0,39.0,false,playlist_3,Heartache By Numbers,Guy Mitchell,Heartaches By The Numbers,spotify:track:4ELT0zRdJTOCUbx90ozKAQ
+2011-02-14 15:24:32,album,184106.0,36.0,false,playlist_3,A Six Pack To Go,Hank Thompson,Hangover Heart,spotify:track:4UtDrwAkSbrZgAUQSWKcti
+2011-02-14 15:24:32,album,130356.0,44.0,false,playlist_3,Helen Forrest: The Complete World Transcriptions,Helen Forrest,Mad About The Boy,spotify:track:6sbZNeGOLDz7WqLk0Nd51J
+2011-02-14 15:24:32,album,173035.0,1.0,false,playlist_3,Johhny Bond: Country and Western: The Standard Transcriptions,Johnny Bond,Stars Of The Midnight Range,spotify:track:2qNJc0MstfUO9KmRC8Buqe
+2011-02-14 15:24:32,album,199573.0,0.0,false,playlist_3,You Know I Love You,Kay Kyser & His Orchestra,Jingle Jangle Jingle,spotify:track:64QH2HnABZEbCbbnTifAuu
+2011-02-14 15:24:32,album,235733.0,65.0,false,playlist_3,Gunfighter Ballads And Trail Songs,Marty Robbins,Big Iron,spotify:track:0AQquaENerGps8BQmbPw14
+2011-02-14 15:24:32,album,155466.0,0.0,false,playlist_3,Anthology,Nat King Cole,Love Me As Though There Were No Tomorrow,spotify:track:1mPNQGFWnoZpE4ntPOPYt5
+2011-02-14 15:24:32,album,158080.0,1.0,false,playlist_3,52 Original Recordings,Nat King Cole,Orange Coloured Sky,spotify:track:0VFmGuupmYD1xoPak8P7JD
+2011-02-14 15:24:32,album,181000.0,1.0,false,playlist_3,American Idols: Peggy Lee,Peggy Lee,Johnny Guitar,spotify:track:0PzXSJps4FReIpjzupDUnG
+2011-02-14 15:24:32,album,144693.0,11.0,false,playlist_3,Dino: The Essential Dean Martin,Dean Martin,Ain't That A Kick In The Head - 1997 - Remastered,spotify:track:7coH7f2P7SiLxmo95b5QHX
+2011-02-14 15:24:32,album,196346.0,0.0,false,playlist_3,The Wonderful Peggy Lee,Peggy Lee,Why Don't You Do Right,spotify:track:1FyZ0UNWTkvjV8hgHxZ4Uc
+2011-02-14 15:24:32,album,144800.0,0.0,false,playlist_3,The Inkspots,The Ink Spots,It's a Sin to Tell a Lie,spotify:track:1R1MfNbjrkN76JSkFXZTl3
+2013-01-31 17:10:23,album,108956.0,27.0,false,playlist_3,Fallout New Vegas - The Unofficial Soundtrack,Jack Shaindlin,I'm Tickled Pink,spotify:track:5Ez19yUSWoNg8iLNEQMvs1
+2013-02-03 15:33:59,album,180133.0,51.0,false,playlist_3,Vera Lynn,Vera Lynn,We'll Meet Again,spotify:track:2iAlDwRozfuIgjvqSJWsw4
+2014-01-16 17:46:35,album,147214.0,45.0,false,playlist_3,Swing With Western,Tony Marcus,Lone Star,spotify:track:6Z0UPq98UiEm7h1tHoYwzs
+2015-01-11 05:48:09,album,269000.0,9.0,false,playlist_5,The Album,Haddaway,What Is Love - Single Mix,spotify:track:33iAwBBb962LFQei4J0b0b
+2015-01-11 05:48:24,album,236560.0,50.0,false,playlist_5,Transformers The Movie,Stan Bush,The Touch,spotify:track:2QyGSbGdT9suKuDKwnjwH9
+2015-01-11 05:48:46,album,148192.0,15.0,false,playlist_5,Elevator Music,Lullatone,Walking On the Sidewalk,spotify:track:3tYFoEmZ42bTUFMs266Ue0
+2015-01-11 05:50:05,album,238733.0,78.0,false,playlist_5,Katrina & The Waves,Katrina & The Waves,Walking On Sunshine,spotify:track:05wIrZSwuaVWhcv5FfqeH0
+2015-01-11 05:50:22,album,246573.0,58.0,false,playlist_5,Desolation Boulevard,Sweet,Ballroom Blitz,spotify:track:3Pu3IChaAoa5EjgUBv5F6x
+2015-01-11 06:00:02,album,212400.0,53.0,false,playlist_5,Platinum & Gold Collection,Rick Astley,Never Gonna Give You Up,spotify:track:0FutrWIUM5Mg3434asiwkp
+2015-01-11 06:00:40,album,127626.0,45.0,false,playlist_5,Halloween Howls: Fun & Scary Music,Andrew Gold,"Spooky, Scary Skeletons",spotify:track:23V08GxMeaZNSf8Gy6KF6t
+2015-01-11 06:06:23,album,147400.0,44.0,false,playlist_5,Mr Sandman,The Chordettes,Mr Sandman,spotify:track:0qwzC38XHdo8nmulMRLbQn
+2015-01-11 06:09:05,album,91733.0,37.0,false,playlist_5,SpongeBob's Greatest Hits,Spongebob Squarepants,Doing The Sponge,spotify:track:0KrmvQ1HsaWgeWSh8Cdb0o
+2015-01-11 06:09:18,album,84826.0,49.0,false,playlist_5,SpongeBob's Greatest Hits,Spongebob Squarepants,F.U.N. Song,spotify:track:0gdLTqxAY4DDUQxXzmwj1z
+2015-01-11 06:22:51,album,222720.0,7.0,false,playlist_5,The Very Best of SEGA,Mustin,Super Sonic Racing (Sonic R),spotify:track:2610Dt6LdipNXqm9W4QUhy
+2015-01-11 06:28:22,album,225280.0,83.0,false,playlist_5,Hunting High And Low,a-ha,Take on Me,spotify:track:2WfaOiMkCvy7F5fcp2zZ8L
+2015-01-11 06:33:24,album,241600.0,59.0,false,playlist_5,At Worst...The Best Of Boy George And Culture Club,Culture Club,Karma Chameleon,spotify:track:48O0GrGJWml3DzHhC5sJ7a
+2015-01-11 06:38:28,album,176293.0,74.0,false,playlist_5,Happy Together,The Turtles,Happy Together,spotify:track:1JO1xLtVc8mWhIoE3YaCL0
+2015-01-11 06:39:18,album,127825.0,34.0,false,playlist_5,Lollipop,The Chordettes,Lollipop,spotify:track:1H6NscSNlknTI09CcC5tHp
+2015-01-11 06:40:03,album,169626.0,59.0,false,playlist_5,"Sugar, Sugar",The Archies,"Sugar, Sugar",spotify:track:4GAI8BxeMgrvhZNEU59UfR
+2015-01-11 06:40:39,album,125826.0,64.0,false,playlist_5,Do you Believe In Magic,The Lovin' Spoonful,Do You Believe in Magic?,spotify:track:1udKn1oNKYQSQ9OmiIWCMu
+2015-01-11 06:50:44,album,214826.0,65.0,false,playlist_5,The Eternal Dance,"Earth, Wind & Fire",September,spotify:track:5nNmj1cLH3r4aA4XDJ2bgY
+2015-01-11 06:51:39,album,180893.0,58.0,false,playlist_5,20th Century Masters: The Millennium Collection: Best Of The Jackson 5,The Jackson 5,I Want You Back,spotify:track:0PGwM5vdr5fMejx0IIAYXj
+2015-01-11 06:52:04,album,176066.0,14.0,false,playlist_5,An American Love Story,The Temptations,My Girl,spotify:track:0Vpswx5knuuXW8HmNK1LrT
+2015-01-11 06:54:55,album,161293.0,39.0,false,playlist_5,20th Century Masters: The Millennium Collection: Best Of Chuck Berry,Chuck Berry,Johnny B. Goode - Single Version,spotify:track:2XGHdmjsumZRkaL8LhBb1e
+2015-01-11 06:57:06,album,243160.0,71.0,false,playlist_5,Ricky Martin,Ricky Martin,Livin' la Vida Loca,spotify:track:0Ph6L4l8dYUuXFmb71Ajnd
+2015-01-17 01:45:59,album,124560.0,43.0,false,playlist_5,Disney's Greatest Volume 1,Randy Newman,"You've Got a Friend in Me - From ""Toy Story""/Soundtrack Version",spotify:track:1aKWa7Y8QY1wUlmmyYoAeQ
+2015-01-17 01:55:23,album,248906.0,75.0,false,playlist_5,The Essential Journey,Journey,Don't Stop Believin',spotify:track:77NNZQSqzLNqh2A9JhLRkg
+2015-01-17 01:56:12,album,239560.0,17.0,false,playlist_5,1984,Van Halen,Jump,spotify:track:2PfBSkCKZDXMsJogMT0wML
+2015-01-17 01:56:24,album,240066.0,41.0,false,playlist_5,'80s Pop Hits,Marvin Gaye,Sexual Healing,spotify:track:4sTjpbVRhhzN5YHhYMYbe3
+2015-01-17 01:56:34,album,187893.0,20.0,false,playlist_5,Combat Rock,The Clash,Should I Stay or Should I Go,spotify:track:5oVd20ddRqp5yenSA0E6u1
+2015-01-17 01:56:54,album,284773.0,53.0,false,playlist_5,99 Luftballons,Nena,99 Red Balloons,spotify:track:5mYtpXrZZ1bbGJYDGC8I0Y
+2015-01-17 01:57:45,album,201866.0,63.0,false,playlist_5,The Essential Journey,Journey,Any Way You Want It,spotify:track:2DyHhPyCZgZzNXn1IrtsTu
+2015-01-17 01:57:52,album,288400.0,59.0,false,playlist_5,The Essential Billy Joel,Billy Joel,We Didn't Start the Fire,spotify:track:38bDGWuyYdSdNfrFfbCiVS
+2015-01-17 01:58:02,album,215133.0,70.0,false,playlist_5,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",Kenny Loggins,Danger Zone,spotify:track:34x6hEJgGAOQvmlMql5Ige
+2015-01-17 01:58:28,album,309466.0,38.0,false,playlist_5,80 Totally 80s Hits,Europe,The Final Countdown,spotify:track:6jpZQXdoPr9ZAhr9mxCyW0
+2015-01-17 01:59:13,album,214653.0,77.0,false,playlist_5,The Game (Deluxe Remastered Version),Queen,Another One Bites The Dust - Remastered 2011,spotify:track:57JVGBtBLCfHw2muk5416J
+2015-01-17 01:59:29,album,211533.0,58.0,false,playlist_5,Dance Hits - 80s & 90s,The Weather Girls,It's Raining Men,spotify:track:4caiYv89C9GZdDD1RzshWd
+2015-01-17 01:59:59,album,246933.0,65.0,false,playlist_5,Document (R.E.M. No. 5),R.E.M.,It's The End Of The World As We Know It (And I Feel Fine),spotify:track:2oSpQ7QtIKTNFfA08Cy0ku
+2015-01-17 02:00:43,album,201502.0,36.0,false,playlist_5,Dance Vault Mixes - Together Forever/I'll Never Set You Free,Rick Astley,Together Forever,spotify:track:1N9bMjIVVq2gLMbAecDnul
+2015-01-17 02:00:49,album,284906.0,29.0,false,playlist_5,Radio Waves Of The 80's - Pop Hits,Wang Chung,Everybody Have Fun Tonight,spotify:track:01OX9zj1h7mZsPj4CesRa4
+2015-01-17 02:01:01,album,238266.0,62.0,false,playlist_5,Biz's Baddest Beats: The Best Of Biz Markie,Biz Markie,Just a Friend,spotify:track:3yNVfRQlUPViUh8O2V9SQn
+2015-01-17 02:03:10,album,290960.0,63.0,false,playlist_5,Let's Get It On,Marvin Gaye,Let's Get It On,spotify:track:0jHkgTtTaqg5LNCiYDQPUB
+2015-01-17 02:03:57,album,162653.0,51.0,false,playlist_5,Radio Hits Of the '70s,Johnny Nash,I Can See Clearly Now,spotify:track:0oCT5rVvMdPPUm0bxG7yzT
+2015-01-17 02:04:01,album,199733.0,0.0,false,playlist_5,London Calling,The Clash,London Calling,spotify:track:3Kr9P2blunzFYEKQygbOoP
+2015-01-17 02:04:43,album,515866.0,72.0,false,playlist_5,The Best Of Don McLean,Don McLean,American Pie,spotify:track:2QgWuCtBpNIpl5trmKCxRf
+2015-01-17 02:05:12,album,230106.0,41.0,false,playlist_5,20th Century Masters: The Millennium Collection: Best of Edwin Starr,Edwin Starr,War,spotify:track:4BpPvEi38kvfLKA1qBBX5J
+2015-01-17 02:05:17,album,329146.0,39.0,false,playlist_5,The Definitive Rod Stewart,Rod Stewart,Da Ya Think I'm Sexy? - 2008 Remaster,spotify:track:42GthmiW6mIvcyaJHdMk30
+2015-01-17 02:05:24,album,283826.0,26.0,false,playlist_5,The Casablanca Records Story,Village People,Y.M.C.A. - Single Version,spotify:track:1itIRmnzXMhqzDeQofMoxT
+2015-01-17 02:06:29,album,234053.0,38.0,false,playlist_5,Gold,Bachman-Turner Overdrive,You Ain't Seen Nothing Yet,spotify:track:1oojGBUxbMSrvrBnQ1DaBc
+2015-01-17 02:06:39,album,235665.0,36.0,false,playlist_5,"The Best of Chicago, 40th Anniversary Edition",Chicago,If You Leave Me Now - 2007 Remaster,spotify:track:5pG2aumkvDvvdOoVbMobAU
+2015-01-17 02:07:42,album,228866.0,12.0,false,playlist_5,Best Of Vol 1,Manfred Mann's Earth Band,Blinded By The Light,spotify:track:39OPZvxdhToddt29z55Ukv
+2015-01-17 02:08:47,album,213600.0,36.0,false,playlist_5,70's Pop Number 1's,Player,Baby Come Back,spotify:track:5XguLH3qJiYb4pHUnNVrIT
+2015-01-17 02:08:54,album,194826.0,8.0,false,playlist_5,Live And Let Die (Soundtrack),Paul McCartney,Live And Let Die,spotify:track:2TEW9YkQDKRHUxCHbEn0Gk
+2015-01-17 02:11:09,album,210706.0,2.0,false,playlist_5,Baby One More Time,Britney Spears,...Baby One More Time,spotify:track:7KIfxh9R4sxkPkn19ikdGd
+2015-01-17 02:12:09,album,213306.0,78.0,false,playlist_5,Millennium,Backstreet Boys,I Want It That Way,spotify:track:47BBI51FKFwOMlIiX6m8ya
+2015-01-17 02:14:51,album,271093.0,75.0,false,playlist_5,The Bodyguard - Original Soundtrack Album,Whitney Houston,I Will Always Love You,spotify:track:4eHbdreAnSOrDDsFfc4Fpm
+2015-01-17 02:30:26,album,188554.0,21.0,false,playlist_5,"The ""A"" Team - Theme from the Television Series (Mike Post)",Dominik Hauser,The A-Team - Theme from the TV Series,spotify:track:0mdtYfR8hE1Eb6hwLMJWRX
+2015-01-17 02:39:10,album,196826.0,60.0,false,playlist_5,Pokemon X - Ten Years Of Pokemon,PokÃ©mon,Pokemon Theme,spotify:track:6xG2ZGudUgtV235xvDlSEt
+2015-01-17 02:42:31,album,254360.0,0.0,false,playlist_5,Star Wars Episode 1: La Menace fantÃ´me: Original Motion Picture Soundtrack - French Version,John Williams,Episode I - Duel of The Fates,spotify:track:0z1TtwvJ9UMkLaNhitI0wQ
+2015-01-18 02:56:17,album,171360.0,18.0,false,playlist_5,Call On Me,Eric Prydz,Call On Me - Radio Edit,spotify:track:65Wn0KpbPXTVLNQNEMtK1j
+2015-01-18 03:08:16,album,176480.0,42.0,false,playlist_5,You're the Best,The Karate Kid,You're the Best,spotify:track:0Z27xVPEXEnh3LdvqGgteO
+2015-01-19 05:00:45,album,193295.0,60.0,false,playlist_5,Talk Dirty,Jason Derulo,Wiggle (feat. Snoop Dogg),spotify:track:2sLwPnIP3CUVmIuHranJZU
+2015-01-20 01:19:06,album,269786.0,75.0,false,playlist_5,The Very Best Of Bonnie Tyler,Bonnie Tyler,Total Eclipse of the Heart,spotify:track:5prTs2HAw2G4idHZyeFp8o
+2015-01-20 16:30:33,album,64250.0,10.0,false,playlist_5,StreetFighter II Guiles Theme,Sonic League,StreetFighter II Guiles Theme,spotify:track:0YcHWrfDttIVmX6CwKe9wt
+2015-01-20 17:00:33,album,251488.0,80.0,false,playlist_5,Songs From The Big Chair (Super Deluxe Edition),Tears For Fears,Everybody Wants To Rule The World,spotify:track:4RvWPyQ5RL0ao9LPZeSouE
+2015-01-20 23:34:17,album,300106.0,74.0,false,playlist_5,Ladies And Gentlemen... The Best Of George Michael,George Michael,Careless Whisper,spotify:track:4jDmJ51x1o9NZB5Nxxc7gY
+2015-01-22 02:15:41,album,236093.0,50.0,true,playlist_5,My Nigga,YG,My Nigga,spotify:track:7hpGGPTNTgdmyjtudEmLfX
+2015-01-22 21:28:28,album,298760.0,76.0,false,playlist_5,Armageddon - The Album,Aerosmith,I Don't Want to Miss a Thing,spotify:track:225xvV8r1yKMHErSWivnow
+2015-01-23 20:24:06,album,255093.0,5.0,false,playlist_5,The R. In R&B Collection: Volume 1,R. Kelly,Bump n' Grind,spotify:track:2OeSwSbwlmn9u8SsutfxPO
+2015-01-23 21:22:11,album,333506.0,0.0,false,playlist_5,Eurobeat Masters Vol. 2,Max Coveri,Running In The 90s,spotify:track:7u9Vkw4xWtGNjao5uz3fJV
+2015-01-25 23:51:36,album,128280.0,19.0,false,playlist_5,"The Very Best Of ""Little Richard""",Little Richard,Long Tall Sally,spotify:track:2PQxqXhXOmHDgB10qHTRAG
+2015-01-25 23:55:26,album,184000.0,44.0,false,playlist_5,Far Cry 3: Blood Dragon (Original Game Soundtrack),Power Glove,Blood Dragon Theme,spotify:track:0fkgNje097R3eszeV59iTI
+2015-01-26 03:26:34,album,276493.0,69.0,false,playlist_5,Partners In Crime,Rupert Holmes,Escape (The Pina Colada Song),spotify:track:5IMtdHjJ1OtkxbGe4zfUxQ
+2015-01-26 03:29:42,album,148093.0,49.0,false,playlist_5,Anthology,Marvin Gaye,Ain't No Mountain High Enough - Mono Version,spotify:track:4njseCGxWeZUksjhrqkleT
+2015-01-27 01:56:02,album,238560.0,71.0,false,playlist_5,Stripped,Christina Aguilera,Beautiful,spotify:track:3TCauNPqFiniaYHBvEVoHG
+2015-01-27 01:58:48,album,286266.0,63.0,true,playlist_5,Grand Champ,DMX,Where The Hood At,spotify:track:6RUpJeXT6U4SPEafnr9Wr7
+2015-01-27 02:05:33,album,225373.0,61.0,false,playlist_5,Before The Storm,Darude,Sandstorm - Radio Edit,spotify:track:24CXuh2WNpgeSYUOvz14jk
+2015-01-27 02:07:54,album,251680.0,2.0,false,playlist_5,It's Our Party and We Can't Stop,Erik Mayers,Girl Let Me Love You,spotify:track:2Chp7k576d36E8BsrnQThB
+2015-01-27 02:18:04,album,229434.0,42.0,true,playlist_5,Smoke Weed Everyday Ft. Diezel,Trick Trick,Smoke Weed Everyday (feat. Diezel),spotify:track:5qQ2Bnai4C9NQ1vWBl7yeX
+2015-01-27 02:20:07,album,260975.0,21.0,false,playlist_5,"Monstercat - Best of Dubstep, Vol. 1.",Various Artists,Follow Me,spotify:track:1utjKRucyp1qt6wOQrEqy6
+2015-01-27 02:22:34,album,235294.0,0.0,false,playlist_5,Ctrl Alt Destruction,Aero Chord,Ctrl Alt Destruction - Original Mix,spotify:track:0qwHWV9v97T58RRqGsZMGO
+2015-01-27 02:27:33,album,242925.0,44.0,false,playlist_5,Friction,Sigmao,Epic Sax Guy,spotify:track:13ZsIACMHaWi8F1va20QZW
+2015-01-27 02:29:26,album,202666.0,25.0,false,playlist_5,Mi piaci se ti muovi (Madagascar e altri film per bambini),Baby Group,Mortal Kombat,spotify:track:21mcrptEh7yxHKIN869yHk
+2015-01-27 21:21:01,album,205506.0,47.0,false,playlist_5,PLAY HARDER REMIX EP,Krewella,Come & Get It,spotify:track:2lKjHE4eSS4LAxan214Zpr
+2015-01-31 21:37:26,album,230066.0,28.0,false,playlist_5,8-Bit,Eisenfunk,Korobeinki,spotify:track:1AZOc4qG2YH78ggqDrMBkd
+2015-02-02 20:09:39,album,227626.0,57.0,false,playlist_5,Asia,Asia,Heat Of The Moment,spotify:track:2ZBalNGwjqdKJd29O76wBV
+2015-02-02 22:32:59,album,53880.0,25.0,false,playlist_5,Ultimate TV Theme Tunes,TV Themes,Mission Impossible,spotify:track:7vBovQzO1Vo1lQLL994Vr4
+2015-02-02 22:33:19,album,142160.0,30.0,false,playlist_5,Ultimate TV Theme Tunes,TV Themes,Happy Days,spotify:track:3SpS1BPw4D6eXDVyTDRZ3b
+2015-02-02 22:33:36,album,100013.0,18.0,false,playlist_5,Ultimate TV Theme Tunes,TV Themes,Teletubbies,spotify:track:0UjGhrN0sq9ElismrIPKMu
+2015-02-02 22:39:21,album,224200.0,19.0,false,playlist_5,The Very Best Of Chesney Hawkes,Chesney Hawkes,The One and Only,spotify:track:2P6lURS2y0Hbks1hnHfm6G
+2015-02-02 22:43:24,album,348986.0,47.0,false,playlist_5,The Very Best Of Bonnie Tyler,Bonnie Tyler,Holding Out for a Hero,spotify:track:3oYxYV6cFaSRwgBpjXzhvS
+2015-02-03 23:56:37,album,140333.0,44.0,false,playlist_5,All Time Greatest Hits,Louis Armstrong,What A Wonderful World - Single Version,spotify:track:2pp3RfqX5cb1BAnmNi4Nej
+2015-02-04 00:02:30,album,250626.0,53.0,false,playlist_5,Bon Jovi Greatest Hits,Bon Jovi,Livin' On A Prayer,spotify:track:7qQnBfwXrw2tZNFG4Uf57N
+2015-02-09 01:55:27,album,97360.0,34.0,false,playlist_5,20th Century Masters: The Millennium Collection: Best Of Lesley Gore,Lesley Gore,"Sunshine, Lollipops And Rainbows - Single Version",spotify:track:47Y7PT6z2rvcaDrkO6X3iq
+2015-02-12 00:50:17,album,302000.0,70.0,true,playlist_5,The Sound of Revenge,Chamillionaire,Ridin',spotify:track:3kZoay4ANo86ehb6s4RwS9
+2015-02-20 00:32:57,album,188473.0,0.0,false,playlist_5,Welcome to the Club,Nightcore,I Touch Myself,spotify:track:4VLm5ZWv59dYHP8bhbkWAG
+2015-02-25 17:37:39,album,195581.0,44.0,false,playlist_5,La Di Da,Baracuda,La Di Da - Radio Version,spotify:track:5TJqqIIE8K7RpxhBUGiuM8
+2015-02-25 23:20:27,album,204370.0,55.0,false,playlist_5,The Rocky Horror Picture Show - Original Soundtrack,Tim Curry,Sweet Transvestite,spotify:track:0K9n8TBThz4xNAkF1eIlB6
+2015-03-14 00:56:38,album,305199.0,28.0,false,playlist_5,Chocolate Rain 2.0,Tay Zonday,Chocolate Rain (Sweet Like Chocolate Remix),spotify:track:1aCMg6cmE6wPaIl719QuE8
+2015-03-15 03:40:01,album,303133.0,55.0,false,playlist_5,Tunak Tunak Tun,Daler Mehndi,Tunak Tunak Tun,spotify:track:131yybV7A3TmC34a0qE8u8
+2015-03-16 22:02:05,album,119205.0,44.0,false,playlist_5,Yesterday's Lemon,Mr Weebl,Narwhals,spotify:track:5f7Ugr3GGBdBcIc1McjGvr
+2015-03-16 22:02:17,album,129600.0,39.0,false,playlist_5,Yesterday's Lemon,Mr Weebl,Amazing Horse,spotify:track:7nT99YzbayQq6WyBZFP6PW
+2015-03-16 22:08:37,album,722323.0,39.0,false,playlist_5,Power Rangers Megamix,Power Rangers,Power Rangers Megamix,spotify:track:0fTQdOS8FucxBQilLTp2ha
+2015-03-16 22:16:49,album,144385.0,36.0,false,playlist_5,Youtube Famous,LilDeuceDeuce,Asdfmovie Song,spotify:track:2YorpKjHKhDBD0QOuucIrA
+2015-03-16 22:17:13,album,191733.0,47.0,false,playlist_5,The Duck Song (The Duck And The Lemonade Stand),Bryant Oden,The Duck Song,spotify:track:3zpbWaTHZutGOjT4S4CuUq
+2015-03-18 01:48:31,album,237053.0,48.0,false,playlist_5,Brontosaurus,Da Vinci's Notebook,Another Irish Drinking Song,spotify:track:3QxgOiZSkuyq7hALKV3fJa
+2015-03-23 22:33:23,album,129053.0,4.0,false,playlist_5,It's My Party,School Jamz,Lollipop,spotify:track:37lkRWctThyatt4bogYJYZ
+2015-03-27 01:43:08,album,160693.0,43.0,false,playlist_5,Disney's Greatest Volume 1,George Givot,"Bella Notte - From ""Lady and the Tramp"" / Soundtrack Version",spotify:track:6suDwyuHm9aTkEGEd5FSNf
+2015-03-29 03:02:01,album,187360.0,48.0,false,playlist_5,Live To Win,Paul Stanley,Live To Win,spotify:track:74inHQGjQj6w630tZ9wb2J
+2015-04-09 03:04:01,album,163240.0,64.0,false,playlist_5,Hits Back,The Clash,I Fought the Law,spotify:track:7lSDCrF11sdTVfjbAQVZE8
+2015-04-16 20:13:44,album,255906.0,11.0,false,playlist_5,Lift Your Spirit,Aloe Blacc,The Man,spotify:track:1FsH6OZCKLWbBgqj8JcCvO
+2015-04-23 19:11:05,album,231653.0,59.0,true,playlist_5,Tonight (I'm Fuckin' You),Enrique Iglesias,Tonight (I'm Fuckin' You),spotify:track:3rDFqo8yv93PtTmdOYOPzX
+2015-05-02 22:05:02,album,188400.0,0.0,false,playlist_5,Manala,Korpiklaani,Ievan Polkka,spotify:track:1Qf8YGAWyajekT32SDCpbB
+2015-05-08 22:56:21,album,322266.0,7.0,false,playlist_5,The House That Dirt Built,The Heavy,Short Change Hero,spotify:track:2inSaXfDWLkOfwYPZItoBw
+2015-05-17 00:44:59,album,176280.0,6.0,false,playlist_5,Caramelldancing,Caramell,Caramelldancing - Radio Version,spotify:track:27KdlmrQh08xsorFR7aFov
+2015-06-13 18:18:36,album,213960.0,0.0,false,playlist_5,Ma Ya Hi (Dragostea Din Tei) [English Mixes],O-Zone,Dragostea Din Tei - Original Romanian Version,spotify:track:1OgEMobOHxmuSEECKrT4yx
+2015-06-20 21:26:20,album,220177.0,52.0,false,playlist_5,"True Survivor (From ""Kung Fury"")",David Hasselhoff,"True Survivor - From ""Kung Fury""",spotify:track:3fnUvzulzK4SZGl5o1hgqx
+2015-06-26 21:20:08,album,183333.0,44.0,false,playlist_5,50th Anniversary Collection Volume One,Danny Kaye,"Civilization (Bongo, Bongo, Bongo) - Single Version",spotify:track:3hf8kPNd48tcmO5zMtQ6aB
+2015-07-03 13:03:06,album,187558.0,52.0,false,playlist_5,Common Faults (Remastered Deluxe Edition),The Silent Comedy,Bartholomew,spotify:track:2fzp6ojPHvZaz4uHXxpJVk
+2015-07-30 09:04:19,album,161373.0,54.0,false,playlist_5,The Best Of Bobby Vinton,Bobby Vinton,Mr. Lonely,spotify:track:5KG2ahk1cONbHvg3dBdTbx
+2015-08-06 11:07:24,album,283747.0,8.0,false,playlist_5,Blue (Da Ba Dee),Eiffel 65,Blue (Da Ba Dee) - DJ Ponte Ice Pop Radio,spotify:track:08VeSelC8QYD1MIsK9gAmY
+2015-08-19 03:27:13,album,126653.0,50.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,David Glen Eisley,Sweet Victory,spotify:track:10ecV5dPqa4XJOtVQRqYSX
+2015-08-23 22:16:13,album,148440.0,24.0,false,playlist_5,Versus Video Games,Daniel Tidwell,Korobeiniki (Tetris),spotify:track:063VEY0lRmBnoNEG4Sw0n7
+2015-08-26 05:37:30,album,63043.0,23.0,false,playlist_5,Dragon Ball Z: Fukkatsu No 'Fâ€˜ (Dragon Ball Z: Resurrection 'Fâ€˜ - Original Motion Picture Soundtrack),Dragon Ball Z: Fukkatsu no 'F',Nuigurumitachi no March - Prologue,spotify:track:72QScKYKjWtnv5yIQ5ZY55
+2015-09-19 21:20:20,album,211920.0,43.0,false,playlist_5,Warrior (Deluxe Version),Kesha,Die Young,spotify:track:6mnjcTmK8TewHfyOp3fC9C
+2015-09-28 18:50:53,album,227960.0,76.0,false,playlist_5,Epiphany,T-Pain,Buy U a Drank (Shawty Snappin'),spotify:track:2aIdVb8v9KTpEZnftkz2mD
+2015-10-01 00:09:48,album,246573.0,1.0,true,playlist_5,Love Sosa,Chief Keef,Love Sosa,spotify:track:1Mp36AbVgpubAirlMV0qef
+2015-10-08 00:07:59,album,204000.0,75.0,false,playlist_5,Let Go,Avril Lavigne,Sk8er Boi,spotify:track:00Mb3DuaIH1kjrwOku9CGU
+2015-10-08 00:08:31,album,184493.0,53.0,false,playlist_5,Raindrops Keep Fallin' On My Head,B.J. Thomas,Raindrops Keep Fallin' On My Head,spotify:track:0zRtBDhwtIFTfoK2HuURbM
+2015-10-13 23:09:11,album,222093.0,73.0,true,playlist_5,Fetty Wap (Deluxe),Fetty Wap,Trap Queen,spotify:track:2d8JP84HNLKhmd6IYOoupQ
+2015-10-14 23:09:20,album,253800.0,64.0,false,playlist_5,The Age Of Plastic,The Buggles,Video Killed The Radio Star,spotify:track:6t1FIJlZWTQfIZhsGjaulM
+2015-10-14 23:09:24,album,245506.0,52.0,false,playlist_5,Hot Space,Queen,Under Pressure,spotify:track:1mSClObliRtgPVT399COQH
+2015-10-14 23:09:40,album,287306.0,63.0,false,playlist_5,Too Rye Ay,Dexys Midnight Runners,Come On Eileen,spotify:track:0EMmVUYs9ZZRHtlADB88uz
+2015-10-14 23:09:46,album,196800.0,19.0,false,playlist_5,Youthquake,Dead Or Alive,You Spin Me Round (Like a Record),spotify:track:0BB9eUBBaaX6GALSYNcEp7
+2015-10-14 23:10:13,album,245466.0,64.0,false,playlist_5,Fore!,Huey Lewis & The News,Hip To Be Square,spotify:track:648BMGrt98kUbLo24A4vgj
+2015-10-14 23:10:44,album,351506.0,49.0,false,playlist_5,Back In The High Life,Steve Winwood,Higher Love - Full Album Version,spotify:track:1vhNjOtmfgoGy4J6ijCUSS
+2015-10-14 23:11:37,album,192866.0,67.0,false,playlist_5,The Best Of Rick Springfield,Rick Springfield,Jessie's Girl,spotify:track:0TF3F5Lw5apoD1zvR8LikO
+2015-11-11 16:26:09,album,266720.0,74.0,false,playlist_5,Jailbreak (Deluxe Edition),Thin Lizzy,The Boys Are Back in Town,spotify:track:43DeSV93pJPT4lCZaWZ6b1
+2015-11-11 16:26:44,album,355303.0,67.0,false,playlist_5,Paranoid (Remastered Edition),Black Sabbath,Iron Man - 2012 Remaster,spotify:track:3IOQZRcEkplCXg6LofKqE9
+2015-11-11 16:27:16,album,255493.0,82.0,false,playlist_5,Back In Black,AC/DC,Back In Black,spotify:track:08mG3Y1vljYA6bvDt4Wqkj
+2015-11-19 01:07:09,album,281142.0,0.0,true,playlist_5,Army Of Mushrooms,Infected Mushroom,U R So Fucked,spotify:track:290t0W9FVMFx6GlU0Yppqq
+2015-12-21 21:57:13,album,216581.0,39.0,false,playlist_5,Euclid,Tanooki Suit,Lordvessel,spotify:track:5Q95r4NzE20g8RR4KxOdPh
+2015-12-27 04:56:44,album,227693.0,62.0,false,playlist_5,5150,Van Halen,Why Can't This Be Love,spotify:track:0TaT50ZZxT4ytZxuqkE3A9
+2015-12-27 05:02:53,album,251106.0,60.0,false,playlist_5,Can't Slow Down,Lionel Richie,Hello,spotify:track:0mHyWYXmmCB9iQyK18m3FQ
+2016-01-02 07:15:32,album,177026.0,54.0,false,playlist_5,The Time Is Now (John Cena),WWE,The Time Is Now (John Cena),spotify:track:0wlVropyv3VsqG5HepMfu2
+2016-01-02 20:32:04,album,126946.0,65.0,false,playlist_5,The Mollusk,Ween,Ocean Man,spotify:track:6M14BiCN00nOsba4JaYsHW
+2016-01-13 22:15:24,album,143219.0,28.0,false,playlist_5,Guile's Theme (Street Fighter II),Daniel Tidwell,Guile's Theme (Street Fighter II),spotify:track:4nhCqc9uMdOE0rZJSRtvBa
+2016-01-20 02:41:11,album,178375.0,41.0,false,playlist_5,Selfies on Kodachrome,Scott Bradlee's Postmodern Jukebox,Stacyâ€™s Mom,spotify:track:3TOGVJQaCQPE4J3JiSncwG
+2016-01-20 02:50:51,album,188625.0,40.0,false,playlist_5,Clubbin' With Grandpa,Scott Bradlee's Postmodern Jukebox,Talk Dirty,spotify:track:6FhVYRYvcgLt9RhXIRnOJB
+2016-01-20 02:54:19,album,250500.0,42.0,false,playlist_5,Twist Is The New Twerk,Scott Bradlee's Postmodern Jukebox,Sweet Child O' Mine,spotify:track:1z7WfPhK3OuTb72VB4mNZh
+2016-01-20 02:55:42,album,243291.0,0.0,false,playlist_5,"Sugar, We're Going Down",Scott Bradlee's Postmodern Jukebox,"Sugar, We're Going Down",spotify:track:7tYsNENP5oTvDJpEq3ZCK5
+2016-01-31 04:01:03,album,239506.0,29.0,true,playlist_5,City Life,Messy Marv,Fuck Bitches (feat. Ya Boy & Tre Songz),spotify:track:7FNB2HW02lQF8UsFbLy7Ri
+2016-01-31 04:07:05,album,241186.0,12.0,false,playlist_5,Be A Man,Macho Man Randy Savage,Remember Me,spotify:track:3wT19ffv1fhFowqSupw1RU
+2016-01-31 04:08:20,album,209413.0,79.0,false,playlist_5,Jazz (Deluxe Remastered Version),Queen,Don't Stop Me Now - Remastered,spotify:track:7hQJA50XrCWABAu5v6QZ4i
+2016-02-01 01:43:33,album,182973.0,7.0,false,playlist_5,Star Wars Episode V: The Empire Strikes Back (Original Motion Picture Soundtrack),John Williams,The Imperial March (Darth Vader's Theme),spotify:track:62HY7V5hRKtfIZ7uCYqYqu
+2016-02-14 03:20:01,album,246386.0,66.0,true,playlist_5,Flockaveli,Waka Flocka Flame,Hard in Da Paint,spotify:track:3XQY8kDjI8LARMIC9xkxQk
+2016-02-21 03:10:47,album,219333.0,6.0,true,playlist_5,Watch The Throne (Deluxe),JAY Z,Ni**as In Paris,spotify:track:2Zb7wnGUnNPCas2E0wWSQ5
+2016-03-01 02:38:44,album,136620.0,45.0,false,playlist_5,Mystery,Kevin MacLeod,Sneaky Snitch,spotify:track:7I31xQWQOO9bVYRkJumQIf
+2016-03-01 02:50:24,album,89129.0,41.0,false,playlist_5,Comedy Scoring,Kevin MacLeod,Scheming Weasel (faster version),spotify:track:2GcUHSdsEYYhH61csWR3wt
+2016-03-01 02:50:44,album,67369.0,39.0,false,playlist_5,Oddities,Kevin MacLeod,Fluffing a Duck,spotify:track:5nFNGhlyf0mmPar5w3I6JY
+2016-03-01 02:50:48,album,257488.0,26.0,false,playlist_5,Disco Ultralounge,Kevin MacLeod,Who Likes to Party,spotify:track:1Qfrgdb3t70qshkHpu15IB
+2016-03-01 02:50:54,album,205139.0,28.0,false,playlist_5,Calming,Kevin MacLeod,Carefree,spotify:track:3DaGnKmAAmyZGIbC0KjmxT
+2016-03-01 02:51:00,album,206576.0,27.0,false,playlist_5,Romance,Kevin MacLeod,At Rest,spotify:track:62nDQqCBjThMD22PVdoAzV
+2016-03-01 02:53:00,album,218383.0,9.0,false,playlist_5,Film Noire,Kevin MacLeod,Cool Vibes,spotify:track:749pbtMYvWXfHhKED32i8K
+2016-03-03 23:51:12,album,210173.0,3.0,true,playlist_5,"Sexy, Naughty, Bitchy Me",Lene Alexandra,"Sexy, Naughty, Bitchy Me",spotify:track:0LGV1KgV5eU3jytDEb3Sfx
+2016-03-03 23:51:45,album,192053.0,46.0,false,playlist_5,Everytime We Touch,Cascada,Bad Boy,spotify:track:0lcamYchjAoGYH7Gee8kfK
+2016-03-03 23:51:52,album,196466.0,66.0,false,playlist_5,Everytime We Touch,Cascada,Everytime We Touch,spotify:track:1eOHw1k2AoluG4VyjBHLzX
+2016-03-29 22:35:29,album,264333.0,73.0,false,playlist_5,Repeat Offender,Richard Marx,Right Here Waiting,spotify:track:4LFwNJWoj74Yd71fIr1W8x
+2016-04-02 17:18:36,album,205879.0,75.0,true,playlist_5,What A Time To Be Alive,Drake,Jumpman,spotify:track:27GmP9AWRs744SzKcpJsTZ
+2016-04-04 17:26:45,album,212946.0,75.0,true,playlist_5,SremmLife,Rae Sremmurd,Come Get Her,spotify:track:1Ser4X0TKttOvo8bgdytTP
+2016-04-20 00:13:55,album,235893.0,78.0,false,playlist_5,Fallen,Evanescence,Bring Me To Life,spotify:track:0COqiPhxzoWICwFCS4eZcp
+2016-04-23 18:01:10,album,92307.0,40.0,false,playlist_5,The Hero!,NateWantsToBattle,The Hero!,spotify:track:7KTE7ZJ1xod9cZpIzjrwSv
+2016-05-13 01:29:58,album,261213.0,0.0,true,playlist_5,Ich & meine Maske (Premium Version),Sido,Strip fÃ¼r mich,spotify:track:20fq5GsWUPTmyWgaYCn9lR
+2016-05-13 01:39:06,album,164933.0,52.0,false,playlist_5,Brontosaurus,Da Vinci's Notebook,Enormous Penis,spotify:track:7dUCFnaGSWLH6SdDP08NLP
+2016-05-13 02:08:55,album,158333.0,51.0,false,playlist_5,Batman (Original Motion Picture Score),Danny Elfman,The Batman Theme,spotify:track:50csT5Qb2qOF7lHdDQ1Sbx
+2016-05-18 19:25:41,album,281814.0,40.0,false,playlist_5,Puttin' On The Ritz (Re-Recorded / Remastered),Taco,Puttin' On The Ritz (Re-Recorded / Remastered),spotify:track:5tdTQGPEaPH2B4TRpxLypg
+2016-05-25 02:17:50,album,197842.0,46.0,false,playlist_5,At Doom's Gate (DOOM E1M1),Daniel Tidwell,At Doom's Gate (DOOM E1M1),spotify:track:21yxKhZ58bjwaOYPAFYk5b
+2016-05-27 23:47:57,album,243984.0,0.0,true,playlist_5,High Roller Remixes,Pegboard Nerds,High Roller - Far Too Loud Remix,spotify:track:3pG7GIgFgWL8XqosJFRZPQ
+2016-06-13 22:14:56,album,150786.0,0.0,false,playlist_5,Metal Gear Rising: Revengeance (Vocal Tracks),Jamie Christopherson,Rules of Nature (Platinum Mix),spotify:track:3PWdjvsWluCdbR6Jx3iAY8
+2016-06-13 22:15:22,album,158760.0,0.0,false,playlist_5,Metal Gear Rising: Revengeance (Vocal Tracks),Jamie Christopherson,Collective Consciousness (Maniac Agenda Mix),spotify:track:07Rp8YsrvHk0xmcBqWPz9x
+2016-06-16 14:30:40,album,247866.0,70.0,true,playlist_5,Panda,Desiigner,Panda,spotify:track:275a9yzwGB6ncAW4SxY7q3
+2016-07-06 01:16:23,album,248178.0,1.0,false,playlist_5,Existence EP,Excision and Downlink,Existence - VIP,spotify:track:0Bu75pBNS5pjDLWgfUKGrm
+2016-07-20 22:40:55,album,240800.0,62.0,false,playlist_5,Arista Heritage Series: Ray Parker,"Ray Parker, Jr.",Ghostbusters,spotify:track:300zfRaCgTmEm5Eqe3HqZZ
+2016-07-30 14:01:51,album,199026.0,2.0,true,playlist_5,No Type,Rae Sremmurd,No Type,spotify:track:4Tzf1U3MWwHQosxyWTXJ1Y
+2016-08-23 10:26:12,album,251466.0,77.0,true,playlist_5,When It's Dark Out,G-Eazy,"Me, Myself & I",spotify:track:40YcuQysJ0KlGQTeGUosTC
+2016-08-29 00:07:19,album,295533.0,81.0,false,playlist_5,X & Y,Coldplay,Fix You,spotify:track:7LVHVU3tWfcxj5aiPFEW4Q
+2016-08-30 12:55:56,album,220814.0,0.0,false,playlist_5,Dreamworld,Nightcore,God Is A Girl,spotify:track:52UYhiKTPgLDgX9bd0gY2p
+2016-08-30 12:57:36,album,250636.0,47.0,false,playlist_5,Cross Road (Sound & Vision),Bon Jovi,Livin On A Prayer,spotify:track:1K95m0tusqzkVum2PmzeIk
+2016-08-30 12:57:43,album,223146.0,19.0,false,playlist_5,Bon Jovi Greatest Hits,Bon Jovi,You Give Love A Bad Name,spotify:track:61lqNlVRnWYiR9C7BDJw2l
+2016-08-30 12:59:31,album,219130.0,40.0,false,playlist_5,Tig Ol' Bitties - Single,Your Favorite Martian,Tig Ol' Bitties,spotify:track:3HnFkC9aTzolocycUBonRZ
+2016-09-17 00:54:13,album,142341.0,34.0,false,playlist_5,Hard Electronic,Kevin MacLeod,Ice Flow,spotify:track:6fa8A3f1G32mQmPYDqQn7a
+2016-09-19 23:56:34,album,76813.0,31.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Ripped Pants,spotify:track:7qPlIgFSsb48lbRXmmi9NB
+2016-09-19 23:59:26,album,145680.0,32.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Gary's Song,spotify:track:1trQRrtJZYUjtHaPcvUrI7
+2016-09-20 00:01:04,album,31306.0,38.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Sweater Song,spotify:track:4uV4XThmemS82EtXtqZYYs
+2016-09-20 00:02:39,album,42706.0,32.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Hey All You People,spotify:track:6fIoS28hkZuzRQRlOQSHI9
+2016-09-20 00:03:08,album,90733.0,25.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Underwater Sun,spotify:track:63s9yeaNUCgmZOYp0ZH7k8
+2016-09-20 00:03:44,album,56053.0,30.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Campfire Song Song,spotify:track:7E1boGBVKRPqbHuEDXXZ7D
+2016-09-20 00:04:00,album,40573.0,20.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Hey Mean Mr. Bossman,spotify:track:5prDw2cMRS3OV1pL7EMxL7
+2016-09-20 00:04:38,album,67946.0,40.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Stadium Rave,spotify:track:0NDWLfNKoq6IJpgrFAN7W1
+2016-09-20 00:04:56,album,32893.0,32.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,That's What Friends Do,spotify:track:5RsYqAze38BY5vsfKBHr3e
+2016-09-20 00:05:23,album,140813.0,20.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,You're Old,spotify:track:6qz8wrOej4MNian3TFofgD
+2016-09-20 00:05:50,album,35613.0,46.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,Electric Zoo,spotify:track:56KyV36puztkiJ62ca3D1t
+2016-09-20 00:06:14,album,44880.0,26.0,false,playlist_5,Spongebob Squarepants - The Yellow Album,Spongebob Squarepants,SpongeBob SquarePants Theme Song,spotify:track:2qJv6Rs4pMUaFyVM0y6qhF
+2016-09-22 01:20:46,album,199296.0,61.0,true,playlist_5,Cum Cake,cupcakKe,Deepthroat,spotify:track:5cXtT63OTadsjqfRkm5Dwd
+2016-09-22 01:22:21,album,225205.0,68.0,true,playlist_5,Broccoli,DRAM,Broccoli,spotify:track:0qy5D3OJre7SPJNMOL9I71
+2016-09-22 01:25:26,album,149681.0,34.0,true,playlist_5,S.T.D,cupcakKe,Best Dick Sucker,spotify:track:5LiwatDL3tDY5LS3kU4d3r
+2016-09-22 01:36:11,album,176586.0,14.0,false,playlist_5,Caramelldansen - Speedy Mixes,Caramell,Caramelldansen,spotify:track:0ShZidyBdeUF00b4ontvom
+2016-09-22 01:48:02,album,163787.0,35.0,true,playlist_5,Cum Cake,cupcakKe,Juicy Coochie,spotify:track:7H4dGa6D6rvv6VkRh5gn2I
+2016-10-17 02:18:06,album,255173.0,63.0,false,playlist_5,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),Teriyaki Boyz,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",spotify:track:5iJfzXKvQXlYOBtEQhEmpA
+2016-10-17 02:18:36,album,200373.0,80.0,false,playlist_5,Astro Lounge,Smash Mouth,All Star,spotify:track:3cfOd4CMv2snFaKAnMdnvK
+2016-12-05 23:06:59,album,146386.0,2.0,false,playlist_5,Folk Songs For The 21st Century,Sheldon Allman,Crawl Out Through The Fallout,spotify:track:5P1ZEzquxrEJDpT3EHi5pB
+2016-12-05 23:07:05,album,153463.0,41.0,false,playlist_5,Skeeter Davis Remastered,Skeeter Davis,The End Of The World,spotify:track:4PzRyMERrNaXrdI0lmRMtb
+2016-12-05 23:08:01,album,158080.0,1.0,false,playlist_5,52 Original Recordings,Nat King Cole,Orange Coloured Sky,spotify:track:0VFmGuupmYD1xoPak8P7JD
+2016-12-05 23:08:10,album,182500.0,52.0,false,playlist_5,Bing-His Legendary Years 1931-1957,Bing Crosby,Pistol Packin' Mama - Single Version,spotify:track:2Pn1HP6ZTVpBaew1jHcs87
+2016-12-05 23:08:20,album,162894.0,44.0,false,playlist_5,"Naughty Tracks of Early Blues, Vol. 1 (Remastered)",Connie Allen,Rocket 69,spotify:track:5nyARU73gaMdQPtCQdVW7x
+2016-12-05 23:08:30,album,201160.0,37.0,false,playlist_5,Swingsation: Ella Fitzgerald With Chick Webb,Ella Fitzgerald,Undecided,spotify:track:0W9T9p7CncUGDQqtPE3UNB
+2016-12-05 23:48:52,album,159000.0,45.0,false,playlist_5,More Greatest Hits - Good Rockin' Tonight,Wynonie Harris,Grandma Plays The Numbers,spotify:track:628ZHvFEZSdHAbp99ghlPr
+2016-12-05 23:49:33,album,169626.0,49.0,false,playlist_5,Capitol Collectors Series,Johnny Mercer,Personality,spotify:track:1kPvyhybeg114W9k20032n
+2016-12-05 23:49:54,album,160360.0,22.0,false,playlist_5,Their Complete Recordings Together,Bing Crosby,Ac-Cent-Tchu-Ate The Positive - Single Version,spotify:track:3LBc4H58fxOoiuWyaRJGzL
+2016-12-05 23:49:59,album,154266.0,36.0,false,playlist_5,Sixty Minute Man,Billy Ward And The Dominoes,Sixty Minute Man,spotify:track:4ihbiQXd16Z6JsoaF5B4aC
+2016-12-20 02:58:00,album,288680.0,40.0,false,playlist_5,Rock 'N' Roll Fantasy: The Very Best Of Bad Company,Bad Company,Bad Company - 2015 Remastered Version,spotify:track:1ZrCVOEijZ5I3WNVEHTEsq
+2016-12-20 02:58:57,album,140773.0,79.0,false,playlist_5,Willy And The Poor Boys (40th Anniversary Edition),Creedence Clearwater Revival,Fortunate Son,spotify:track:4BP3uh0hFLFRb5cjsgLqDh
+2017-01-14 12:34:55,album,208226.0,43.0,false,playlist_5,Tales From The Kingdom Of Fife,Gloryhammer,Angus McFife,spotify:track:3DcdhXDXL3HupVYxFPu7vw
+2017-01-14 12:35:11,album,315746.0,47.0,false,playlist_5,Art Of War,Sabaton,Panzerkampf,spotify:track:1bgVqJqAruGBp7nQGOFxfU
+2017-01-29 03:17:06,album,251493.0,18.0,false,playlist_5,"Halo 2, Vol. 1 (Original Soundtrack)",Martin O'Donnell,Halo Theme Mjolnir Mix,spotify:track:5F0SoxMfLTHc5IPEE9tcZx
+2017-02-27 03:11:53,album,351573.0,61.0,false,playlist_5,Nightflight to Venus,Boney M.,Rasputin,spotify:track:5jkFvD4UJrmdoezzT1FRoP
+2017-03-02 01:28:11,album,215973.0,67.0,false,playlist_5,Scatman's World,Scatman John,Scatman (ski-ba-bop-ba-dop-bop),spotify:track:623rRTKwGmgjH6sjE9uWLh
+2017-03-09 00:28:17,album,112161.0,0.0,true,playlist_5,KMS (feat. Atlas),Anomaly,KMS (feat. Atlas),spotify:track:3uONXUaDHr3szyN565y02I
+2017-03-09 00:28:31,album,126345.0,80.0,true,playlist_5,Look At Me!,XXXTENTACION,Look At Me!,spotify:track:7floNISpH8VF4z4459Qo18
+2017-03-22 02:00:57,album,200306.0,76.0,false,playlist_5,Weezer (Green Album),Weezer,Island In The Sun,spotify:track:2MLHyLy5z5l5YRp7momlgw
+2017-05-17 01:18:59,album,166973.0,50.0,false,playlist_5,Star Wars Sampler,London Voices,"Cantina Band - From ""Star Wars: A New Hope""",spotify:track:2zF7IDI6UsLXpwl3FjukPS
+2017-05-17 01:19:01,album,174026.0,51.0,false,playlist_5,SpongeBob's Greatest Hits,Spongebob Squarepants,Goofy Goober Rock,spotify:track:3xZek9XkEaX130o3XN9cvd
+2017-05-17 01:19:17,album,284426.0,51.0,false,playlist_5,Timeless - The All-Time Greatest Hits,Bee Gees,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",spotify:track:4ICKuJDY5F2XdTR4fIMA7W
+2017-05-17 01:19:47,album,166733.0,45.0,false,playlist_5,Chacarron,El Chombo,Chacarron - Radio Edit,spotify:track:1HnQcY4VmcysHIOY8zR5wF
+2017-05-17 01:19:49,album,192226.0,55.0,false,playlist_5,I Am Your Gummy Bear,GummibÃ¤r,I Am Your Gummy Bear (The Gummy Bear Song),spotify:track:6nFYXpBgrNcZjbtNEuc6yR
+2017-05-17 01:20:01,album,197773.0,63.0,false,playlist_5,Aquarium,Aqua,Barbie Girl,spotify:track:2RSOzvKUnfDDrb2nQPfpQU
+2017-05-17 01:20:39,album,175693.0,41.0,false,playlist_5,Greatest Hits,DJ Jazzy Jeff & The Fresh Prince,The Fresh Prince of Bel-Air,spotify:track:3FltYEzrDu20qIRjj4SNvD
+2017-05-17 01:21:18,album,182626.0,57.0,false,playlist_5,Tasty,Kelis,Milkshake - Radio Mix,spotify:track:2s0ouHqJebHfiQ6C1GUFJd
+2017-05-17 01:21:26,album,262826.0,11.0,true,playlist_5,Mack Daddy,Sir Mix-A-Lot,Baby Got Back,spotify:track:7MCNnnmwm7TXMh7xyNGohi
+2017-05-17 01:21:35,album,124066.0,1.0,false,playlist_5,The Best Of Tom Jones 20th Century Masters The Millennium Collection,Tom Jones,What's New Pussycat?,spotify:track:4dx3Lqdq4WvUWx23d04tOl
+2017-05-17 01:21:43,album,57600.0,43.0,false,playlist_5,Willy Wonka & The Chocolate Factory,Oompa Loompa Cast,"Oompa Loompa - From ""Willy Wonka & The Chocolate Factory"" Soundtrack",spotify:track:3FOVyUbdnNuUmjRR8mI18O
+2017-05-17 01:23:30,album,304600.0,77.0,false,playlist_5,Another Level,Blackstreet,No Diggity,spotify:track:6MdqqkQ8sSC0WB4i8PyRuQ
+2017-05-17 01:23:40,album,119266.0,6.0,false,playlist_5,The Best Of Tom Jones 20th Century Masters The Millennium Collection,Tom Jones,It's Not Unusual,spotify:track:5Fwif6oyL2EjXAFTGL909U
+2017-05-17 01:24:02,album,226293.0,44.0,false,playlist_5,The Essential Kenny Loggins,Kenny Loggins,Footloose,spotify:track:2CYiz0Mv8FYKPw7prokwDC
+2017-05-17 01:24:17,album,272080.0,67.0,false,playlist_5,PCD,The Pussycat Dolls,Don't Cha,spotify:track:1gZ7i4qxXkHZb1r6eioaAP
+2017-05-17 01:24:39,album,213266.0,57.0,false,playlist_5,Blacks' Magic,Salt-N-Pepa,Let's Talk About Sex,spotify:track:6hTBP6QLwJdxbKyLlLXrGo
+2017-05-17 01:24:48,album,192586.0,0.0,false,playlist_5,Essential - Pop 1990s,Rednex,Cotton Eye Joe,spotify:track:07ewVLyucSY9LO6h64K2uQ
+2017-05-17 01:24:55,album,203573.0,61.0,false,playlist_5,Sweet Caroline,Neil Diamond,Sweet Caroline,spotify:track:3298yRJKPcCndQdNiTZKIo
+2017-05-17 01:25:25,album,260680.0,75.0,false,playlist_5,Celebrate (Greatest Hits),Simple Minds,Don't You (Forget About Me) - Remastered,spotify:track:0A4PZuepTcIQVvA5m7R0M1
+2017-05-17 01:25:31,album,284813.0,41.0,false,playlist_5,Hypnotica,Benny Benassi,Satisfaction - Isak original,spotify:track:3az4KbeqXONlSc0GdORbDC
+2017-05-17 01:25:38,album,168733.0,28.0,false,playlist_5,Playlist: The Best Of Shirley Bassey,Shirley Bassey,Goldfinger,spotify:track:6NGe9yGadOvtx0XRePVRdo
+2017-05-17 01:25:53,album,205466.0,68.0,false,playlist_5,Street Songs,Rick James,Super Freak,spotify:track:2dCmGcEOQrMQhMMS8Vj7Ca
+2017-05-17 01:26:08,album,165866.0,47.0,false,playlist_5,The Ultimate Collection: Four Tops,Four Tops,"I Can't Help Myself (Sugar Pie, Honey Bunch)",spotify:track:0GiWjFOVWv3mVaNCxkgqlq
+2017-05-17 01:26:25,album,161986.0,38.0,false,playlist_5,SpongeBob's Greatest Hits,Spongebob Squarepants,The Goofy Goober Song,spotify:track:7GCaZax7ExKSNYFv8eQCvL
+2017-05-17 01:31:30,album,235840.0,0.0,false,playlist_5,The Last Stand,Sabaton,The Last Stand,spotify:track:3gADBuiNvtYo6Xu9cGjm5V
+2017-05-20 14:46:38,album,253106.0,77.0,true,playlist_5,iSpy (feat. Lil Yachty),KYLE,iSpy (feat. Lil Yachty),spotify:track:2EEeOnHehOozLq4aS0n6SL
+2017-05-26 01:19:21,album,188943.0,50.0,false,playlist_5,Ma Chouchoute,Snail's House,Ma Chouchoute,spotify:track:26xcWeNjFVUzSPGgZmspKB
+2017-10-02 23:42:08,album,415906.0,47.0,false,playlist_5,Android Porn / Steppin' Razor,Kraddy,Android Porn,spotify:track:6m0x9E0xSWMQVkii2FWHxG
+2017-10-02 23:43:06,album,110080.0,42.0,false,playlist_5,The SpongeBob SquarePants Movie-Music From The Movie and More,"SpongeBob, Patrick & The Monsters",Now That We're Men,spotify:track:65c0WFZ8C6RWxUosvkdfzX
+2017-10-06 17:08:03,album,272404.0,55.0,false,playlist_5,Gas Gas Gas (Initial D),Tsuko G.,Gas Gas Gas (Initial D),spotify:track:7ewraUQ1M5KwLZoFnPyXZG
+2017-10-06 17:08:16,album,250941.0,61.0,false,playlist_5,Deja Vu (Initial D),Tsuko G.,Deja Vu (Initial D),spotify:track:0gV0Ogr3400hgZrWOG7Di1
+2017-10-06 17:10:39,album,162742.0,35.0,false,playlist_5,Trololo Song,Mr. Trololo,Trololo Song,spotify:track:17DteqUBu6Alp3jGWkbadK
+2017-10-06 17:11:02,album,125933.0,49.0,false,playlist_5,God Bless Tiny Tim,Tiny Tim,"Livin' in the Sunlight, Lovin' in the Moon Light",spotify:track:1PmXm1881bonBI1AlG5uaH
+2017-10-06 17:13:08,album,134833.0,55.0,false,playlist_5,Heyyeyaaeyaaaeyaeyaa (Fabulous Secret Powers),SLACKCiRCUS,Heyyeyaaeyaaaeyaeyaa (Fabulous Secret Powers),spotify:track:0trTpNYmHAK3EihaZBd2h6
+2017-10-06 17:13:22,album,110840.0,46.0,false,playlist_5,God Bless Tiny Tim,Tiny Tim,Tip Toe Thru' the Tulips with Me,spotify:track:1Vchex0xowRj9k59RLvRfo
+2017-10-06 17:13:37,album,194360.0,49.0,false,playlist_5,Bananaphone,Raffi,Bananaphone,spotify:track:2Uu4AnnMTJpevC0IrwAuOW
+2017-10-06 17:13:54,album,148066.0,46.0,false,playlist_5,Hit Songs & Rarities,The Wiggles,Fruit Salad,spotify:track:0jxWlzadnSzb9f49f9jxfz
+2017-10-06 17:13:59,album,30053.0,0.0,false,playlist_5,"For Those About To Shop, We Salute You",Parry Gripp,Do You Like Waffles?,spotify:track:5gP9aSnGYSSAbPM8fj4UWR
+2017-10-06 17:14:02,album,216400.0,49.0,false,playlist_5,Peanut Butter Jelly Time,Chip-man & The Buckwheat Boyz,Peanut Butter Jelly Time - Radio,spotify:track:7rv2yO4NDw1xaucLooqdqm
+2017-10-06 17:14:10,album,185043.0,53.0,false,playlist_5,Stella (Remastered 2005),Yello,Oh Yeah - Remastered 2005,spotify:track:1iOHLlEsMbgJfYBFWy4TjG
+2017-10-06 17:14:16,album,235813.0,72.0,false,playlist_5,Bag Raiders (Deluxe),Bag Raiders,Shooting Stars,spotify:track:0UeYCHOETPfai02uskjJ3x
+2017-10-06 17:14:35,album,155000.0,51.0,false,playlist_5,Shia LaBeouf Live,Rob Cantor,Shia LaBeouf Live,spotify:track:3VMzQ4rh7FtfSuyjHIcuZR
+2017-10-06 17:14:37,album,510573.0,64.0,false,playlist_5,Fragile (Deluxe Version),Yes,Roundabout - Remastered Version,spotify:track:0YveezON7jpiaHA8fnUHxN
+2017-10-06 17:14:44,album,276013.0,0.0,false,playlist_5,Drama Sonatina,Ji Pyeong Kwon,Sad Romance (A.K.A. Sad Violin),spotify:track:0m5kdGuPwbTLBM3hWkLd1D
+2017-10-06 17:15:17,album,54360.0,42.0,false,playlist_5,The Young Ones,Charlie's Angels,Seinfeld,spotify:track:1xOufOKaxfBlxG6l7ytHZ0
+2017-10-06 17:16:04,album,157800.0,42.0,false,playlist_5,We No Speak Americano (13 Mixes),Yolanda Be Cool,We No Speak Americano - Radio Edit,spotify:track:2bGDdgjS7HYSlzpHk8ClKU
+2017-10-06 17:16:25,album,189974.0,68.0,true,playlist_5,Ultimate,Denzel Curry,Ultimate,spotify:track:6R0GRYk2vs2XuBVemYK5YZ
+2017-10-06 17:16:47,album,182693.0,57.0,false,playlist_5,Primetime Adventures,Chipmusic Heroes,"Crazy Noisy Bizarre Town (From ""Jojo's Bizarre Adventure: Diamond Is Unbreakable"") [feat. Skully Tun]",spotify:track:7m8Oe3Con71ujRIji78Ukb
+2017-10-06 17:17:02,album,196642.0,63.0,true,playlist_5,You Reposted in the Wrong Neighborhood I Glue70 Mashup,Shokk,You Reposted in the Wrong Neighborhood I Glue70 Mashup,spotify:track:0hSzixwdKTfDQewDKq2cP5
+2017-10-06 17:17:24,album,77241.0,50.0,false,playlist_5,Kazoo Kid,Mike Diva,Kazoo Kid Trap - Original Mix,spotify:track:69F7HX0NulVaEcq8UeEVcK
+2017-10-06 17:17:54,album,30891.0,52.0,false,playlist_5,Thomas' Train Yard Tracks,Thomas & Friends,Thomas Theme,spotify:track:15SgAfCwXlyxMNPFgWkAlc
+2017-10-06 17:18:41,album,274103.0,46.0,false,playlist_5,On the Floor,IceJJFish,On the Floor,spotify:track:0cm53Jz1z1AA7NrfN7VAk6
+2017-10-06 17:18:45,album,25260.0,27.0,true,playlist_5,Fuck This Shit I'm Out,The Theme Song,Fuck This Shit I'm Out,spotify:track:2RYjte6fWX1JZRszMkOkD0
+2017-10-06 17:18:53,album,86306.0,35.0,false,playlist_5,The Red Army Choir: Live In Paris,The Red Army Choir,Russian National Anthem,spotify:track:53K7pVf1g65cbOSNiJEJKt
+2017-10-06 17:19:03,album,122877.0,34.0,false,playlist_5,Whipped Cream: The Funky Trumpet of Ray Davies & His Button Down Brass,Ray Davies and His Button Down Brass,Spanish Flea,spotify:track:160xpuXDJHmG3J43h9lCLu
+2017-10-06 17:19:07,album,162386.0,51.0,false,playlist_5,"The good, the bad and the ugly",Ennio Morricone,"The Good, The Bad and the Ugly (From ""The Good, the Bad and the Ugly"") - Titles",spotify:track:2IJJszwGK4NWmh3bNK6CPD
+2017-10-06 17:19:18,album,195515.0,57.0,false,playlist_5,Wii Turn Up (Wii Menu Remix),Murcy,Wii Turn Up (Wii Menu Remix),spotify:track:59OkvZEB9zPsEa6fQL2LlZ
+2017-10-06 17:19:45,album,136093.0,45.0,false,playlist_5,Guitar Legend: The Very Best Of Dick Dale,Dick Dale and his Del-Tones,Misirlou,spotify:track:1p791U7Bx5PmvCwucN4PQN
+2017-10-06 17:19:58,album,117391.0,32.0,true,playlist_5,Dat Boi (O Shit Waddup!),Dj Cutman,Dat Boi (O Shit Waddup!),spotify:track:2xPpFvPTAZFL058D6aJ6pM
+2017-10-06 17:20:19,album,161506.0,70.0,true,playlist_5,2001,Dr. Dre,The Next Episode,spotify:track:4LwU4Vp6od3Sb08CsP99GC
+2017-10-06 17:20:34,album,167533.0,5.0,false,playlist_5,Rocky (Original Motion Picture Score),Bill Conti,"Gonna Fly Now - Theme From ""Rocky""",spotify:track:60kXdgdz1PRqbNQIAEU6s9
+2017-10-06 17:20:40,album,346840.0,63.0,false,playlist_5,My Boo (Hitman's Club Mix),Ghost Town DJs,My Boo - Hitman's Club Mix,spotify:track:4c0rkFPszqQTyC753tsCMU
+2017-10-06 17:20:46,album,192746.0,53.0,false,playlist_5,Mi Mi Mi,Serebro,Mi Mi Mi,spotify:track:0pqCMHN3IVkBDlWAg0kiVa
+2017-10-06 17:20:55,album,284453.0,36.0,false,playlist_5,Illuminati Confirmed XL,Gabriel Mercado,Air Horn,spotify:track:4ilpZCh2AhKezBwHV0fWcw
+2017-10-06 17:21:22,album,254000.0,53.0,false,playlist_5,Primitive Love,Miami Sound Machine,Conga,spotify:track:3FdHgoJbH3DXNtGLh56pFu
+2017-10-06 17:21:56,album,158413.0,54.0,false,playlist_5,Leave It All To Me (Theme from iCarly),Miranda Cosgrove,Leave It All To Me (Theme from iCarly),spotify:track:7CMIy0uwXyeBv2MvaEUJM1
+2017-10-06 17:22:19,album,168666.0,18.0,false,playlist_5,Orff: Carmina Burana,Carl Orff,Carmina Burana: Fortuna imperatrix mundi: O Fortuna,spotify:track:43S1l614pzr2EtxIknjYFl
+2017-10-06 17:22:41,album,212826.0,3.0,false,playlist_5,Pride Party Hits New Edition,Tomboy,Ok 2 B Gay,spotify:track:54BQrqQXbvs7qpEkRtJLFA
+2017-10-06 17:22:47,album,257360.0,71.0,false,playlist_5,Please Hammer Don't Hurt 'Em,MC Hammer,U Can't Touch This,spotify:track:1B75hgRqe7A4fwee3g3Wmu
+2017-10-06 17:23:14,album,212866.0,4.0,false,playlist_5,Hampsterdance Album,Hampton The Hampster,The Hampsterdance Song,spotify:track:5pP3RGiUtFVZlWotyJb9Ei
+2017-10-06 17:23:20,album,249506.0,60.0,false,playlist_5,Fiesta Macarena,Los Del Rio,Macarena,spotify:track:4oaj36KzXRgDg4McgcTsZK
+2017-10-06 17:23:46,album,50613.0,50.0,false,playlist_5,Wizards of Waverly Place,Selena Gomez,Everything Is Not As It Seems - Series Theme Song,spotify:track:5U4wYRHrCRxRP6iQfM824C
+2017-10-06 17:24:09,album,198066.0,66.0,false,playlist_5,20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor,Gloria Gaynor,I Will Survive - Extended Version,spotify:track:7cv28LXcjAC3GsXbUvXKbX
+2017-10-06 17:25:36,album,27200.0,16.0,false,playlist_5,Keyboard Cat's Greatest Hits,Keyboard Cat,"Fatso's Theme aka Play Him Off, Keyboard Cat",spotify:track:74asF5hV7yPzaP1h6wVz1R
+2017-10-06 17:25:39,album,239253.0,70.0,true,playlist_5,Paradas Continuas,Lipps Inc.,Funky Town,spotify:track:7723JnKU2R15Iv4T7OJrly
+2017-10-06 17:26:25,album,114957.0,57.0,false,playlist_5,Krusty Krab Spongebob Trap Remix Vine Theme,William Jacobs,Krusty Krab Spongebob Trap Remix Vine Theme,spotify:track:79VupVk4BWNqYcfXe5oVOh
+2017-10-06 17:27:15,album,231333.0,79.0,false,playlist_5,Make It Big,Wham!,Wake Me up Before You Go-Go,spotify:track:0ikz6tENMONtK6qGkOrU3c
+2017-10-06 17:27:47,album,186560.0,58.0,false,playlist_5,Toonage,Cartoons,Witch Doctor - Radio Mix,spotify:track:1li2UA33w6LQcVXt4Di5UA
+2017-10-06 17:29:07,album,221573.0,47.0,true,playlist_5,"My Neck, My Back (Lick It) - Remixes",Khia,"My Neck, My Back (Lick It) - Street/Club Version",spotify:track:1tc6RFcNQk2mQ0c0ZdiEBW
+2017-10-06 17:29:39,album,149120.0,37.0,false,playlist_5,MÃºsica de America,Mariachi Vargas De Tecalitlan,Jarabe tapatio,spotify:track:6A3pJMpqcz3maI3H0yBLC9
+2017-10-06 17:30:53,album,179160.0,60.0,true,playlist_5,United States Of Atlanta,Ying Yang Twins,Wait (The Whisper Song),spotify:track:5Y78yINSOCW6xbOfGWNBg4
+2017-10-06 17:30:59,album,117000.0,31.0,false,playlist_5,Amazing Electronic Pop Sound Of,Jean-Jacques Perrey,Brazilian Flower,spotify:track:5EFDXorJyUp61D2ZGpmsJz
+2017-10-06 17:32:16,album,288247.0,42.0,false,playlist_5,Chocolate Rain,Tay Zonday,Chocolate Rain,spotify:track:3sJ1HwrSpTVosPhJHFbRLK
+2017-10-06 17:32:45,album,116800.0,30.0,false,playlist_5,Classic Video Game Songs,Video Game Players,Sonic the Hedgehog (Green Hill Zone Theme),spotify:track:6VpiPDOAdP3wH0vOrAs30g
+2017-10-06 17:33:01,album,189204.0,29.0,false,playlist_5,Disco Ultralounge,Kevin MacLeod,Local Forecast - Elevator,spotify:track:5sRQNFKwE9kgNleZgnCpgw
+2017-10-06 17:33:58,album,172509.0,36.0,false,playlist_5,Dog of Wisdom (Remix) [feat. Joe Gran] [Blue Version] - Single,The Living Tombstone,Dog of Wisdom (Remix) [feat. Joe Gran] [Blue Version],spotify:track:0cNvfyJjpoP56GgdOHSFPw
+2017-10-06 17:34:09,album,120960.0,59.0,true,playlist_5,CrazyNDaLazDayz,Tear Da Club Up Thugs,Slob on My Knob,spotify:track:60TbmViml7n1jUZksLR7Mq
+2017-10-06 17:34:57,album,164613.0,0.0,false,playlist_5,"Mega Man, Vol. 2",Capcom Sound Team,Dr. Wily Stage 1 (NES ver.),spotify:track:4ICg3ggG6Orp1W1GMNA6LH
+2017-10-06 17:36:24,album,289000.0,47.0,true,playlist_5,Let Me Hit It,Sporty-O,Let Me Hit It - Audiostalkers Original Mix,spotify:track:6DHswEnDubt3PTh9semV3M
+2017-10-06 17:36:45,album,277489.0,49.0,false,playlist_5,009 Sound System,009 Sound System,Dreamscape,spotify:track:5fp6m6Zo4LetiWaMMrPjy5
+2017-10-06 17:37:03,album,177212.0,47.0,false,playlist_5,Portal 2: Songs to Test By (Collectors Edition),Aperture Science Psychoacoustic Laboratories,Still Alive,spotify:track:0Nrw0vKim2z4dph1jsxvye
+2017-10-06 17:37:11,album,112586.0,36.0,false,playlist_5,101 Game Themes 4.0,8-Bit Arcade,Super Smash Bros Melee (Main Theme),spotify:track:7qutORNbBeywDgWXKOJlFD
+2017-10-06 17:38:50,album,229000.0,45.0,false,playlist_5,Buckwild,Pontus Pettersson,Buckwild,spotify:track:0imgcXQ3x5qjncFmbozu7d
+2017-10-06 17:39:03,album,132858.0,38.0,false,playlist_5,The Mario Brothers Collection Vol. III,Good Knight Productions,Super Smash Bros. Brawl - Wifi Waiting Room,spotify:track:6eCJJGYFb11r8umc77wLdA
+2017-10-06 17:40:15,album,238358.0,36.0,false,playlist_5,"Retro Remix Revue, Vol. 2",Retro Remix Revue,The Legend of Zelda: Ocarina of Time - Gerudo Valley,spotify:track:1KPqKXEhZJG5tyVu0n59wh
+2017-12-20 17:29:35,album,124055.0,76.0,true,playlist_5,Lil Pump,Lil Pump,Gucci Gang,spotify:track:43ZyHQITOjhciSUUNPVRHc
+2018-01-07 23:27:17,album,244803.0,0.0,false,playlist_5,MANDY B.BLUE #1 -Haneda International Anime Music Festival Presents-,MANDY B.BLUE,A Cruel Angel's Thesis,spotify:track:5lDMPCKmRUx1Q5Fk4jqH7m
+2018-01-17 18:35:55,album,266933.0,48.0,true,playlist_5,Encore,Eminem,Big Weenie,spotify:track:4dh34dyav8M5jCN3yidn8Z
+2018-04-06 16:46:20,album,373051.0,0.0,false,playlist_5,Born To Be Wasted,009 Sound System,Born To Be Wasted,spotify:track:1pzTXuYLNoXY8tKzvOAqB7
+2018-04-06 16:48:11,album,125240.0,39.0,false,playlist_5,Los Muppets (Banda Sonora Original),Mahna Mahna and The Two Snowths,Mah Na Mah Na,spotify:track:4LwdFPmc5LYY2qAmzi23pe
+2018-04-06 16:48:17,album,111154.0,46.0,false,playlist_5,TV Tunes,Luciano Michelini,Frolic (Curb Your Enthusiasm Theme),spotify:track:5foxQ24C0x7W0B2OD46AJg
+2018-04-06 16:49:29,album,142732.0,49.0,false,playlist_5,We Are Number One (Instrumental Version),4Fate,We Are Number One - Instrumental Version,spotify:track:0IzOLJVaqwaQR5zBad9iWn
+2018-04-06 16:49:35,album,272293.0,54.0,true,playlist_5,Golden Grain,Disturbing Tha Peace,Move Bitch,spotify:track:0LyZGZEZcFqpeF8bAfx3v0
+2018-04-06 16:50:12,album,189506.0,69.0,false,playlist_5,Trading Snakeoil for Wolftickets,Gary Jules,Mad World (Feat. Michael Andrews),spotify:track:3JOVTQ5h8HGFnDdp4VT3MP
+2018-04-06 16:50:20,album,227327.0,40.0,false,playlist_5,Brodyquest - Single,Lemon Demon,Brodyquest,spotify:track:3KWpkpZRx6mJ3W5jGCLXnY
+2018-04-11 03:09:15,album,197240.0,44.0,false,playlist_5,3XL Manga i Anime,Super3,Cha La Head Chala,spotify:track:36la4AQp7vTlCRNyC5NLry
+2018-04-13 15:38:45,album,295893.0,84.0,false,playlist_5,Toto IV,Toto,Africa,spotify:track:2374M0fQpWi3dLnB54qaLX
+2018-04-13 15:40:06,album,222320.0,65.0,false,playlist_5,Business As Usual,Men At Work,Down Under,spotify:track:3ZZq9396zv8pcn5GYVhxUi
+2018-08-09 01:56:17,album,132073.0,53.0,false,playlist_5,"Country Roads (From the ""Fallout 76"" Teaser Trailer) [Recreated Version]",Baltic House Orchestra,"Country Roads (From the ""Fallout 76"" Teaser Trailer) [Recreated Version]",spotify:track:1rtYGowPGXV17ioj8nwCd3
+2018-09-26 17:44:15,album,90122.0,73.0,true,playlist_5,Thick Niggas and Anime Tiddies,Dbangz,Thick Niggas and Anime Tiddies,spotify:track:33kB5gz4gzOEZVkuWKHylS
+2018-10-19 16:10:22,album,249466.0,67.0,true,playlist_5,Get Rich Or Die Tryin',50 Cent,P.I.M.P.,spotify:track:2D1hlMwWWXpkc3CZJ5U351
+2018-10-25 03:17:28,album,240693.0,79.0,false,playlist_5,Gangsta's Paradise,Coolio,Gangsta's Paradise,spotify:track:7lQWRAjyhTpCWFC0jmclT4
+2018-11-21 17:32:09,album,215786.0,66.0,false,playlist_5,By Your Side,Breakbot,Baby I'm Yours - feat. Irfrane,spotify:track:7oGwQOTkMB9Sk3DIKJLd5F
+2019-01-02 02:20:15,album,167500.0,60.0,true,playlist_5,Baby Powder,Bandingo YGNE,Baby Powder,spotify:track:13XvShB9GPpai2JhSIIgHY
+2019-01-02 02:20:18,album,195373.0,64.0,false,playlist_5,The Drug In Me Is You,Falling In Reverse,Good Girls Bad Guys,spotify:track:78ML3F5Lz3KiNkpnFAaR3q
+2019-01-02 02:20:21,album,197528.0,69.0,false,playlist_5,Flamingo,Kero Kero Bonito,Flamingo,spotify:track:3AaiEsiqHO2ylnnOdWninE
+2019-01-02 02:20:25,album,154465.0,64.0,false,playlist_5,No Mercy,The Living Tombstone,No Mercy,spotify:track:3tbwKbrgDNjT4JvM4SVAtz
+2019-01-02 02:20:27,album,26186.0,45.0,false,playlist_5,Avengers: Infinity War (Original Motion Picture Soundtrack / Deluxe Edition),Alan Silvestri,The Avengers,spotify:track:2Zb6Cu5peVtG3UDifxEd1u
+2019-01-02 02:20:33,album,256000.0,32.0,false,playlist_5,Moody Ibiza 2017,Aaron Smith,Dancin (feat. Luvli) - Krono Remix,spotify:track:3NuzLWsRZXO1QsBUEWseGd
+2019-01-02 02:20:38,album,255040.0,59.0,false,playlist_5,Utamonogatari Special Edition (Original Soundtrack),MONOGATARI Series,Renai Circulation,spotify:track:5P8lyudWE7HQxb4ludLbEm
+2019-01-02 02:21:13,album,155008.0,67.0,false,playlist_5,Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix],Getter Jaani,Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix],spotify:track:37s8uwIjw72XfMseKJXNOO
+2019-01-02 02:21:25,album,71458.0,38.0,true,playlist_5,"Hit or Miss, I Guess They Never Miss Huh",Iceboy Ben,"Hit or Miss, I Guess They Never Miss Huh",spotify:track:3QuYMsa06dKctueY73d4un
+2019-01-02 02:22:21,album,292571.0,63.0,false,playlist_5,Voulez-Vous,ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),spotify:track:2PzCOP5Aj9SABiBgNEZ52G
+2019-01-02 02:24:20,album,286493.0,64.0,false,playlist_5,What You Won't Do for Love,Bobby Caldwell,What You Won't Do for Love,spotify:track:7dL8FCLzEaWC2A3qWQuz1q
+2019-01-02 02:24:31,album,183906.0,87.0,true,playlist_5,MUDBOY,Sheck Wes,Mo Bamba,spotify:track:1xzBco0xcoJEDXktl7Jxrr
+2019-01-02 02:24:57,album,162585.0,71.0,false,playlist_5,Boys,Charli XCX,Boys,spotify:track:5o4yGlG0PfeVUa6ClIyOxq
+2019-01-02 02:25:11,album,190554.0,56.0,false,playlist_5,<|Âº_Âº|>,Caravan Palace,Wonderland,spotify:track:2tzLjiRec9KtzdhgyVYN6Z
+2019-01-02 02:25:18,album,187045.0,66.0,false,playlist_5,The Muffin Song (asdfmovie),The Gregory Brothers,The Muffin Song (asdfmovie),spotify:track:1LGv7Ah6TXp1soAAIzzuGC
+2019-01-02 02:27:26,album,144008.0,48.0,false,playlist_5,Lobby Music (Original Soundtrack),Kahoot!,Lobby Music (Original Soundtrack),spotify:track:7IEdlE4ZwzPDxnoWFv10aj
+2019-01-10 03:58:40,album,166635.0,65.0,true,playlist_5,The 420 Unlovable Family Tape,420 Unlovable,Wii Tennis,spotify:track:0q97eZcYkeHy2buhS1O5Ir
+2019-01-10 04:02:32,album,312820.0,90.0,true,playlist_5,ASTROWORLD,Travis Scott,SICKO MODE,spotify:track:2xLMifQCjDGFmkHkpNLD9h
+2019-02-26 00:05:43,album,217423.0,30.0,false,playlist_5,Resident Evil 2 Original Soundtrack,Shotaro Nakayama,Tofu on Fire,spotify:track:1JqGbX7D8Lh03W3WITm5VS
+2019-02-26 00:10:59,album,129362.0,27.0,false,playlist_5,Resident Evil 2 Original Soundtrack,Masami Ueda,Save Room (Model Screen),spotify:track:1Vw2NGHNER0Xr4DDMDsagS
+2019-04-13 23:36:28,album,157066.0,97.0,false,playlist_5,Old Town Road,Lil Nas X,Old Town Road - Remix,spotify:track:6u7jPi22kF8CTQ3rb9DHE7
+2019-04-13 23:37:28,album,239835.0,43.0,true,playlist_5,Goodbye & Good Riddance,Juice WRLD,Lucid Dreams,spotify:track:0s3nnoMeVWz3989MkNQiRf
+2019-04-13 23:43:00,album,100286.0,51.0,true,playlist_5,Broken Hearts,J-swae,Track Meet,spotify:track:05xI48iEtJr2wtIZkGuouZ
+2019-04-13 23:48:06,album,286516.0,64.0,true,playlist_5,MOOO!,Doja Cat,MOOO!,spotify:track:00bWqt93aqLXqKtzZoq7Jw
+2019-04-13 23:48:22,album,177133.0,70.0,true,playlist_5,Mia Khalifa,iLOVEFRiDAY,Mia Khalifa,spotify:track:3B9vJvi2Z6ws4wjNTQMYAc
+2019-04-22 03:47:11,album,268434.0,91.0,true,playlist_5,I AM YOU,YNW Melly,Murder On My Mind,spotify:track:7eBqSVxrzQZtK2mmgRG6lC
+2018-06-19 21:16:21,album,251866.0,49.0,false,playlist_6,Pista Livre,Cachorro Grande,Sinceramente,spotify:track:4QUHJVXhwt14EzC0zOGa2I
+2018-06-19 21:17:39,album,254186.0,17.0,false,playlist_6,Seu Cuca (Ao vivo),Seu Cuca,O seu lugar - Ao vivo,spotify:track:1sfZhSQY9CLtvKi1H6wqCO
+2018-06-19 21:18:12,album,185733.0,32.0,false,playlist_6,Abbey Road (Remastered),The Beatles,Here Comes The Sun - Remastered,spotify:track:45yEy5WJywhJ3sDI28ajTm
+2018-06-19 21:18:37,album,216813.0,3.0,false,playlist_6,Let It Be (Remastered),The Beatles,Two Of Us - Remastered,spotify:track:57n1teNb2tkcfiYagPmUWr
+2018-06-19 21:19:08,album,254893.0,33.0,false,playlist_6,Vanessa da Mata,Vanessa Da Mata,Case-se Comigo,spotify:track:5d3cU8s9DEr8mGheRYRuIR
+2018-06-19 21:19:25,album,394266.0,10.0,false,playlist_6,Songs In The Key Of Life (Reissue),Stevie Wonder,Isn't She Lovely,spotify:track:373zqV0VLz9mnrSaY9kaiX
+2018-06-19 21:19:57,album,279600.0,46.0,false,playlist_6,Songs from Dawson's Creek,Chantal Kreviazuk,Feels Like Home,spotify:track:5cevh91ATYBb4TXkvYiUm0
+2018-06-19 21:20:09,album,269560.0,84.0,false,playlist_6,Love In The Future (Expanded Edition),John Legend,All of Me,spotify:track:3U4isOIWM3VvDubwSI3y7a
+2018-06-19 21:20:31,album,268640.0,62.0,false,playlist_6,Feito Pra Acabar,Marcelo Jeneci,Pra Sonhar,spotify:track:2VJOJBlHlSzdsf1uBpReKe
+2018-06-19 21:20:45,album,158960.0,0.0,false,playlist_6,"Music To Lovers Collection, Vol.13",The Strings Of Paris,La Vie em Rose,spotify:track:2eYthTSnYAOo8dKn7IOp7a
+2018-06-20 12:25:10,album,268608.0,26.0,false,playlist_6,Montreal Jazz Club Sesion 2,Freddie James,Hallelujah (Leonard Cohen),spotify:track:2r9W7Sap0COF2sNV409ISA
+2018-06-20 12:25:28,album,200200.0,51.0,false,playlist_6,Muito Mais Que o Amor,Vanguart,Meu Sol,spotify:track:71iogkuXi7nAfFbqMGDTri
+2018-06-20 12:26:10,album,343813.0,70.0,false,playlist_6,Dres,Nando Reis,Pra Você Guardei O Amor,spotify:track:1EQ8sBQ7Abv9DvNBzhXAcv
+2018-06-20 12:26:38,album,276306.0,42.0,false,playlist_6,As Paisagens Conhecidas,Os Arrais,Caneta e Papel,spotify:track:0FHLdyKjddlKEvRpvFKaNV
+2018-06-20 12:27:09,album,175440.0,48.0,false,playlist_6,Bloco Do Eu Sozinho,Los Hermanos,Casa Pré-Fabricada,spotify:track:48aum3DqFk35mK59Ji9h5z
+2018-06-20 12:27:34,album,191360.0,78.0,false,playlist_6,We Sing. We Dance. We Steal Things.,Jason Mraz,Lucky,spotify:track:0IktbUcnAGrvD03AWnz3Q8
+2018-06-20 12:27:53,album,211457.0,38.0,false,playlist_6,Clementine Acoustic Sessions,Clementine Duo,Can't Help Falling in Love (With You),spotify:track:3RY6MgBESRWmZ58v6rYJVP
+2018-06-20 12:28:13,album,168226.0,54.0,false,playlist_6,"Jobim, Vinicius, Baden, Menescal, Lyra... (54 Songs)",Antônio Carlos Jobim,Pela luz dos olhos teus,spotify:track:6tyYK7y3kboS7GQulNtwo5
+2018-06-20 12:28:37,album,277293.0,37.0,false,playlist_6,Bebel Gilberto In Rio,Bebel Gilberto,Eu Preciso Dizer Que Te Amo,spotify:track:4CA2iDjIrO8xUlZ7O7U8kY
+2018-06-20 12:28:57,album,177000.0,36.0,false,playlist_6,Perhaps Love (with Plácido Domingo),John Denver,Perhaps Love,spotify:track:7vRLVWAYjnrPEhZf5IeDOm
+2018-06-20 12:29:09,album,230626.0,48.0,false,playlist_6,As Quatro Estações,Legião Urbana,Monte Castelo,spotify:track:1ieaNRjnBSPwznI7BQrEWi
+2018-06-20 12:29:57,album,336333.0,23.0,false,playlist_6,35 Anos de Rock Rural,Expresso Rural,Certos Amigos (Ao Vivo),spotify:track:3AN9zaWTbwaSOdz4ZKK223
+2018-06-20 12:30:54,album,239146.0,3.0,false,playlist_6,The Lion King,Carmen Twillie,"Circle Of Life - From ""The Lion King""/Soundtrack",spotify:track:5rLsYHAgCqKNeaj1miXVnd
+2018-06-20 12:31:37,album,308933.0,4.0,false,playlist_6,Crush,Bon Jovi,Thank You For Loving Me,spotify:track:6IroxjN6zHbXyzS57xMo4Z
+2018-06-20 12:32:42,album,309773.0,59.0,false,playlist_6,The Piano Guys,The Piano Guys,Beethoven's 5 Secrets,spotify:track:7xPQY7skgsujvvVyoE5lBi
+2018-06-20 12:32:46,album,275973.0,62.0,false,playlist_6,The Piano Guys,The Piano Guys,A Thousand Years,spotify:track:0E0xI4AgMNU7UkwBt3FCVN
+2018-06-20 12:33:02,album,253250.0,71.0,false,playlist_6,Synchronicity (Remastered),The Police,Every Breath You Take - Remastered 2003,spotify:track:5C0LFQARavkPpn7JgA4sLk
+2018-06-20 12:33:31,album,190960.0,65.0,false,playlist_6,Varrendo a Lua (Deluxe Edition),Roberta Campos,De Janeiro a Janeiro,spotify:track:27Es7REkNYsWCMBoIbmwCW
+2018-06-20 12:33:54,album,333986.0,0.0,false,playlist_6,"A Letra ""A""",Nando Reis,Luz Dos Olhos,spotify:track:5FREy2bRo5ThmdMUzwHjsW
+2018-06-20 12:34:10,album,194240.0,23.0,false,playlist_6,"Oh, What A Life",American Authors,Best Day Of My Life,spotify:track:5j9iuo3tMmQIfnEEQOOjxh
+2018-06-20 12:34:30,album,283240.0,45.0,false,playlist_6,Luz,Djavan,Pétala,spotify:track:2H4TYG8IkKIXeJFt2CLCaO
+2018-06-20 12:35:56,album,229480.0,49.0,false,playlist_6,Minha Felicidade - Single,Roberta Campos,Minha Felicidade,spotify:track:6JnxYJwKACudLMiaYMT0qA
+2018-06-20 12:36:24,album,221356.0,2.0,false,playlist_6,Another Bundle of Tantrums,Jasmine Thompson,Sweet Child O' Mine,spotify:track:2HDTwGn4mA9pRC2hMSs7jW
+2018-06-20 12:36:36,album,268466.0,76.0,false,playlist_6,Ghost Stories,Coldplay,A Sky Full of Stars,spotify:track:0FDzzruyVECATHXKHFs9eJ
+2018-06-20 12:36:52,album,182400.0,24.0,false,playlist_6,At Last!,Etta James,At Last - Single Version,spotify:track:0CmIALzGn4vHIHJG4n3Q4z
+2018-06-20 12:37:05,album,164438.0,56.0,false,playlist_6,Dois Corações (Acústico),Melim,Dois Corações - Acústico,spotify:track:39W953OaTIFMNGDkH4SY4u
+2018-06-20 12:37:25,album,156453.0,2.0,false,playlist_6,Music For The Motion Picture Into The Wild,Eddie Vedder,Rise,spotify:track:3DBFd14cf6eeY53yWzOEVz
+2018-06-20 12:38:01,album,231266.0,0.0,false,playlist_6,Wingspan (UK Version),Paul McCartney,Maybe I'm Amazed,spotify:track:1I5NCZPyL32gSX3E0pmfEm
+2018-06-20 12:38:11,album,298600.0,0.0,false,playlist_6,Flowers In The Dirt (Remastered),Paul McCartney,We Got Married - Remastered 2017,spotify:track:5dHgIhavWp1dJspKpWBjDq
+2018-06-20 12:38:26,album,218186.0,11.0,false,playlist_6,Let It Be (Remastered),The Beatles,The Long And Winding Road - Remastered,spotify:track:2rG2c14sIgzyIRdbw3edaL
+2018-06-20 12:40:26,album,245533.0,38.0,false,playlist_6,Roberto Carlos (1975) [Remasterizado],Roberto Carlos,Olha - Versão Remasterizada,spotify:track:39vJleXN4h12BQExhj0Kqk
+2018-06-20 12:40:41,album,269120.0,50.0,false,playlist_6,Remonta,Liniker e os Caramelows,"Sem Nome, Mas Com Endereço",spotify:track:6xh9JILM2rzAtRynrTAAhe
+2018-06-20 12:40:57,album,252600.0,57.0,false,playlist_6,Feito Pra Acabar,Marcelo Jeneci,Felicidade,spotify:track:7wqojWtf69NNjw3P5wMst6
+2018-06-20 12:41:09,album,334626.0,45.0,false,playlist_6,Toque Dela,Marcelo Camelo,Meu Amor É Teu,spotify:track:0HjlbE5iurkc4n2efskB57
+2018-06-20 12:41:28,album,210680.0,29.0,false,playlist_6,Grecco,Grecco,Namorando,spotify:track:0oOdE0KVbXNDHdxja2Uf1Y
+2018-06-20 12:41:44,album,351453.0,4.0,false,playlist_6,Entrada para Raros,O Teatro Mágico,O Anjo Mais Velho,spotify:track:6C8vYMJuUYdHStoyzDiAeG
+2018-06-20 12:41:59,album,242186.0,84.0,false,playlist_6,We Sing. We Dance. We Steal Things.,Jason Mraz,I'm Yours,spotify:track:1EzrEOXmMH3G43AXT1y7pA
+2018-06-20 12:42:24,album,233305.0,61.0,false,playlist_6,Despicable Me 2 (Original Motion Picture Soundtrack),Various Artists,Happy,spotify:track:6NPVjNh8Jhru9xOmyQigds
+2018-06-20 12:42:38,album,183226.0,41.0,false,playlist_6,The Beatles Nova,"Grażyna Auguścik, Paulinho Garcia",WhenI'm64,spotify:track:5D0F36qJJblQ6mXMuIrH3C
+2018-06-20 12:42:51,album,228173.0,11.0,false,playlist_6,La La Land (Original Motion Picture Soundtrack),La La Land Cast,"Another Day Of Sun - From ""La La Land"" Soundtrack",spotify:track:0zCfmceT1YvtZXGbR6Roht
+2018-06-20 12:44:47,album,176800.0,32.0,false,playlist_6,Em Cada Canto,Lorena Chaves,Alma na Gangorra,spotify:track:399ZzZlv1VpWwmnGam04ls
+2018-06-20 12:45:01,album,212373.0,71.0,false,playlist_6,Call Me Irresponsible (Standard Edition),Michael Bublé,Everything,spotify:track:4T6HLdP6OcAtqC6tGnQelG
+2018-06-20 12:45:21,album,190466.0,2.0,false,playlist_6,Begin Again - Music From And Inspired By The Original Motion Picture,Adam Levine,A Higher Place,spotify:track:4CbZ7egFPLVVdgloG48RkP
+2018-06-20 12:45:25,album,240186.0,6.0,false,playlist_6,Begin Again - Music From And Inspired By The Original Motion Picture,Keira Knightley,Lost Stars,spotify:track:4QsnHKvJGVbWJs3Em9Mrcy
+2018-06-20 12:45:59,album,237410.0,41.0,false,playlist_6,Nos Seus Olhos (Versão Jardim - Pomar),Nando Reis,Nos Seus Olhos - Versão Jardim - Pomar,spotify:track:6RpDBpuTUZ2Iw6DsYDEBJL
+2018-06-20 12:46:17,album,173040.0,68.0,false,playlist_6,Pet Sounds (Original Mono & Stereo Mix Versions),The Beach Boys,God Only Knows - Remastered,spotify:track:6iGU74CwXuT4XVepjc9Emf
+2018-06-20 12:46:37,album,290266.0,46.0,false,playlist_6,Porque não tínhamos bicicleta,Flavio Venturini,Céu de santo amaro (feat. Caetano Veloso),spotify:track:5iTFBGI1y3HGcqE2DWd5Bf
+2018-06-20 12:46:52,album,234866.0,65.0,false,playlist_6,Clapton Chronicles: The Best Of Eric Clapton,Eric Clapton,Change the World,spotify:track:6BQNJ0JFKh8sWjQLI6Zudi
+2018-06-20 12:47:03,album,303213.0,70.0,false,playlist_6,Harvest Moon,Neil Young,Harvest Moon,spotify:track:5l9c6bJmzvftumhz4TMPgk
+2018-06-20 15:00:46,album,181129.0,0.0,false,playlist_6,Seja Para Mim (Acústico),Maneva,Seja Para Mim - Acústico,spotify:track:3nmAzbXHDexo40lC7eLElh
+2018-06-20 15:01:02,album,256733.0,62.0,false,playlist_6,Peace in a Time of War,SOJA,True Love,spotify:track:2Y9WfjpGt3kzv7cbRl3s3O
+2018-06-20 15:02:03,album,170786.0,12.0,false,playlist_6,A Night At The Opera (2011 Remaster),Queen,You're My Best Friend - Remastered 2011,spotify:track:5YtxOL4iUchhynLL9nEBwQ
+2018-06-20 23:13:45,album,218266.0,69.0,false,playlist_6,Lulu Acústico,Lulu Santos,Apenas Mais uma de Amor,spotify:track:6YNCE5qtrTa7YcnAOAEsDQ
+2018-06-21 12:40:38,album,247280.0,37.0,false,playlist_6,Sobre Ele,Amanda Rodrigues,Mais,spotify:track:5zXu8n7u4tPh7OLp4jOVt5
+2018-03-28 16:53:14,album,209666.0,43.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Down (feat. Joi),spotify:track:7tAyoTnr66zdkUsg8XzSmd
+2018-03-28 16:53:19,album,205866.0,54.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Legend Has It,spotify:track:6bGwloiyyHXwFZ4yV1zjqR
+2018-03-28 16:53:30,album,198640.0,46.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Call Ticketron,spotify:track:6M3RWxZ2aRapomSbsy5Zvl
+2018-03-28 16:53:49,album,242493.0,37.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Thieves! (Screamed the Ghost) [feat. Tunde Adebimpe],spotify:track:6fd0hfSveLlNptY3I13UsT
+2018-03-28 16:53:54,album,221173.0,41.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Panther Like a Panther (Miracle Mix) [feat. Trina],spotify:track:610xX8mO0xhnEIgTZpbBoZ
+2018-03-28 16:53:59,album,216586.0,48.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Oh Mama,spotify:track:1cwytvoduxCstpvvLVaonu
+2018-03-28 16:54:07,album,262520.0,40.0,true,playlist_7,Run the Jewels 3,Run The Jewels,Thursday in the Danger Room (feat. Kamasi Washington),spotify:track:2vAwockUBNYExCTm7tWBON
+2018-03-28 16:55:33,album,237553.0,35.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Watch Your Step,spotify:track:6Q1tDLDM6lfBSy9x8XjoRA
+2018-03-28 16:55:46,album,165604.0,48.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Crypteque,spotify:track:0wydxbEaB3KSKJstJVhTG5
+2018-03-28 16:55:50,album,149186.0,37.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Rhythmortis,spotify:track:4SaCDCYdgL6Nw7mdORj6jt
+2018-03-28 16:55:55,album,198271.0,38.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Tombtorial,spotify:track:4MjGxmNJ1CdBDbxtmZiw1y
+2018-03-28 16:57:36,album,209560.0,58.0,false,playlist_7,Humanz (Deluxe),Gorillaz,She's My Collar (feat. Kali Uchis),spotify:track:3lIxtCaROdRDuTnNBDm3n2
+2018-03-28 16:57:41,album,151400.0,51.0,true,playlist_7,Garage Palace (feat. Little Simz),Gorillaz,Garage Palace (feat. Little Simz),spotify:track:5ZYBczat60p8a2Fnenour4
+2018-03-28 16:58:04,album,374960.0,38.0,true,playlist_7,Run the Jewels 3,Run The Jewels,A Report to the Shareholders / Kill Your Masters,spotify:track:0ije0AlpdOcKa8oXohEDcd
+2018-03-28 16:59:11,album,206832.0,25.0,false,playlist_7,Hardwell presents Revealed Vol. 7,Seth Hills,Raise Your Hands - Mix Cut,spotify:track:5NmZyiFVxnOnR9oj6ZqKYJ
+2018-03-28 17:11:50,album,232946.0,0.0,false,playlist_7,Leather Teeth,Carpenter Brut,Leather Teeth,spotify:track:5DzMRynZilaNPx4epDKqM2
+2018-03-28 17:19:26,album,304422.0,36.0,false,playlist_7,New Model,Perturbator,Vantablack,spotify:track:3ma4i9RZ4CaQ7UE01XVMZQ
+2018-03-28 17:20:37,album,331743.0,42.0,false,playlist_7,Endless Summer,The Midnight,Jason (feat. Nikki Flores),spotify:track:4jEy6jXHWcOKXsVfIV5lR2
+2018-03-28 17:39:14,album,209708.0,42.0,false,playlist_7,GUNSHIP,Gunship,Tech Noir - Carpenter Brut Remix,spotify:track:4az5cxWbquOT0ScNy9XTZ6
+2018-03-28 18:46:02,album,256000.0,0.0,false,playlist_7,TRILOGY,Carpenter Brut,Le perv,spotify:track:53Kf1deIW8fcRaulTzQTRO
+2018-03-29 13:29:34,album,232302.0,0.0,false,playlist_7,Escape From Earth,Thomas Barrandon,The Last Race Between You And Me,spotify:track:6ewBazOXzfue9WpQgApJld
+2018-03-29 13:43:42,album,256488.0,0.0,false,playlist_7,Trilogy,Carpenter Brut,Wake Up the President,spotify:track:3S1CaH7ArTb8eZsOIcv7IL
+2018-03-29 14:06:52,album,337435.0,0.0,false,playlist_7,Trilogy,Carpenter Brut,Hang'em All,spotify:track:7E9fSFXKvz0rEN3Emw2rwz
+2018-03-29 14:14:50,album,287812.0,0.0,false,playlist_7,Trilogy,Carpenter Brut,"Run, Sally, Run!",spotify:track:0HcYKqHk5Gqju4HHqxApGH
+2018-03-29 14:37:29,album,262720.0,51.0,false,playlist_7,Dangerous Days,Perturbator,Humans Are Such Easy Prey,spotify:track:67dA1a6OCUtLHgq9qdQ216
+2018-03-29 14:37:47,album,303973.0,39.0,false,playlist_7,Dangerous Days,Perturbator,Satanic Rites,spotify:track:4HmqqOpqk1IMyMvsrSciQa
+2018-03-29 14:38:34,album,331884.0,28.0,false,playlist_7,Tactical Precision Disarray,Perturbator,Tactical Precision Disarray,spotify:track:5gNW2nF7spcgthBdxcUiPm
+2018-03-29 19:23:08,album,352105.0,51.0,false,playlist_7,Dreams of Neo-Tokyo (Deluxe Edition),Scandroid,Neo-Tokyo - Dance With The Dead Remix,spotify:track:44K1GCbNLf1NHlCaLaYONk
+2018-03-29 19:36:56,album,294910.0,35.0,false,playlist_7,New Model,Perturbator,Tainted Empire,spotify:track:7hgiddHgvplHpprfDdX0mU
+2018-03-29 19:39:56,album,253145.0,42.0,false,playlist_7,The Uncanny Valley,Perturbator,Neo Tokyo,spotify:track:2yOhhpMB3f8lU19bhV6a6C
+2018-04-04 17:52:07,album,180782.0,43.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Disco Descent,spotify:track:3uRikCofTghf4GBr5NXH1K
+2018-04-04 17:55:10,album,175150.0,42.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Mausoleum Mash,spotify:track:5zh0Iz4bvJWY3EeGDwXfQH
+2018-04-04 18:25:18,album,130690.0,33.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Deep Sea Bass,spotify:track:3xbxuUNgmnTMmn5EhjiGgE
+2018-04-04 18:30:10,album,142050.0,33.0,false,playlist_7,Crypt of the Necrodancer (Original Game Soundtrack),Danny Baranowsky,Last Dance,spotify:track:5ed7RPUU7E62bEbmdCfFVq
+2018-04-04 18:50:31,album,249767.0,0.0,false,playlist_7,DmC Devil May Cry (Original Game Soundtrack),Noisia,Hunter Theme,spotify:track:4zhf3RMn2G4OjsLQu3QQaI
+2018-04-04 18:50:36,album,291428.0,0.0,false,playlist_7,DmC Devil May Cry (Original Game Soundtrack),Noisia,Poison Theme,spotify:track:529922vbU9rwx9pdqqov1r
+2018-04-04 18:51:39,album,326400.0,0.0,false,playlist_7,DmC Devil May Cry (Original Game Soundtrack),Noisia,Lilith's Club,spotify:track:4LMhIuZx3VU9DWiNIaFiz3
+2018-04-04 19:39:08,album,287586.0,0.0,false,playlist_7,Making Monsters,Combichrist,Throat Full Of Glass,spotify:track:1vRZ4FeDHUg8i9TVGMRGmD
+2018-04-06 14:25:50,album,362880.0,28.0,false,playlist_7,Last Call (CYA Remix),Highly Sedated,Last Call - CYA Remix,spotify:track:24AcdQUEAuZtBDXubW7vL9
+2018-04-06 14:43:42,album,191250.0,0.0,false,playlist_7,Groovy George,Mike Williams,Groovy George,spotify:track:1hbDPzm6GcTUEEDcW1ClKj
+2018-04-06 14:43:48,album,288095.0,0.0,false,playlist_7,Reconstructions,Madonna,Ghosttown - Don Diablo Remix,spotify:track:66RpVMEkgt5Ew7UWL9qswY
+2018-04-06 14:45:52,album,327804.0,46.0,false,playlist_7,Kurupt,Tchami,Kurupt,spotify:track:27nfKLXSw4Mmg0JMDcke93
+2018-04-06 14:54:13,album,202204.0,31.0,false,playlist_7,Tasty (feat. Thayana Valle),WILL K,Tasty (feat. Thayana Valle),spotify:track:5kVAp9lANGadGK1s7mxv0h
+2018-04-26 18:49:37,album,233520.0,59.0,false,playlist_7,Rasputin,Turisas,Rasputin,spotify:track:0W43LnKXzRivi0WPaoBLVO
+2018-04-26 18:58:26,album,229804.0,57.0,false,playlist_7,<IÂ°_Â°I>,Caravan Palace,Lone Digger,spotify:track:1TAC5SANfK7l6wGHtUQ7MX
+2018-04-26 18:58:56,album,191493.0,49.0,false,playlist_7,Panic,Caravan Palace,Rock It for Me,spotify:track:7gHkDNieGzYmyuC7E1Xbxw
+2018-04-26 19:04:43,album,184000.0,44.0,false,playlist_7,Far Cry 3: Blood Dragon (Original Game Soundtrack),Power Glove,Blood Dragon Theme,spotify:track:0fkgNje097R3eszeV59iTI
+2018-04-26 19:05:00,album,225373.0,61.0,false,playlist_7,Before The Storm,Darude,Sandstorm - Radio Edit,spotify:track:24CXuh2WNpgeSYUOvz14jk
+2018-04-26 19:05:21,album,235294.0,0.0,false,playlist_7,Ctrl Alt Destruction,Aero Chord,Ctrl Alt Destruction - Original Mix,spotify:track:0qwHWV9v97T58RRqGsZMGO
+2018-04-26 19:07:21,album,302000.0,70.0,true,playlist_7,The Sound of Revenge,Chamillionaire,Ridin',spotify:track:3kZoay4ANo86ehb6s4RwS9
+2018-04-26 19:09:39,album,196800.0,19.0,false,playlist_7,Youthquake,Dead Or Alive,You Spin Me Round (Like a Record),spotify:track:0BB9eUBBaaX6GALSYNcEp7
+2018-04-26 19:19:48,album,255173.0,63.0,false,playlist_7,The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack),Teriyaki Boyz,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",spotify:track:5iJfzXKvQXlYOBtEQhEmpA
+2018-04-26 19:20:51,album,262826.0,11.0,true,playlist_7,Mack Daddy,Sir Mix-A-Lot,Baby Got Back,spotify:track:7MCNnnmwm7TXMh7xyNGohi
+2018-04-26 19:21:15,album,174525.0,52.0,false,playlist_7,We Are Number One (Remix),SayMaxWell,We Are Number One (Remix),spotify:track:4C64ZXG24vRJ4lwkxCA24G
+2018-05-03 18:18:39,album,264957.0,32.0,false,playlist_7,Velcro Kid,Thomas Giles,Gazer (feat. Devin Townsend),spotify:track:4dsS8kKgN1QLjZPBtNgpnd
+2018-05-22 09:25:04,album,96021.0,29.0,false,playlist_7,Prey (Original Game Soundtrack),Mick Gordon,The Experiment,spotify:track:4PO0M9d9Aqo12ezXFRmdFg
+2018-05-22 09:25:13,album,149413.0,38.0,false,playlist_7,Prey (Original Game Soundtrack),Mick Gordon,Everything Is Going to Be Okay,spotify:track:5xF4RLMluqmNFKQZpqd55M
+2018-05-22 09:26:31,album,146394.0,24.0,false,playlist_7,Prey (Original Game Soundtrack),Mick Gordon,No Gravity,spotify:track:4lqhUYSXqgcGjePtCXCInX
+2018-05-22 09:27:37,album,202197.0,34.0,false,playlist_7,Prey (Original Game Soundtrack),Raphael Colantonio,Mind Games,spotify:track:41WsmkonuFoEd9U9EOS4m1
+2019-01-02 19:15:12,album,194840.0,60.0,false,playlist_7,Dame Mais,Tropkillaz,Dame Mais,spotify:track:3IqI8boTYbqJKEybByt4T3
+2019-01-02 19:15:27,album,279756.0,72.0,false,playlist_7,Pouca Pausa,Clau,Pouca Pausa,spotify:track:2odzriVVZBwYOiYJEj30tm
+2019-03-18 13:33:05,album,240466.0,38.0,false,playlist_7,New Flesh,Priest,The Pit,spotify:track:3IHaUlCev0cyNJLHEf1jlh
+2019-03-27 17:23:00,album,208972.0,56.0,false,playlist_7,TRILOGY,Carpenter Brut,Turbo Killer,spotify:track:10qbHF920zH5K8C8IcE5AL
+2019-04-09 13:10:03,album,304880.0,46.0,false,playlist_7,Dangerous Days,Perturbator,"She Is Young, She Is Beautiful, She Is Next",spotify:track:2MBJZgztmtwcIsKXXwLxZI
+2019-04-09 13:10:20,album,363706.0,47.0,false,playlist_7,Doomsday,Sonic Mayhem,Futureland,spotify:track:5UrCArd6UDDR2EPFOeWCxb
+2019-04-09 13:10:24,album,214351.0,4.0,false,playlist_7,Trilogy,Carpenter Brut,Roller Mobster,spotify:track:4eiTSqoxOWExDu57OSQWgr
+2019-04-09 13:10:30,album,232820.0,46.0,false,playlist_7,Behemoth,Gost,Genesee Avenue,spotify:track:5Wrd7eU7jcJPoZEU1Z26ow
+2019-04-09 13:10:34,album,259834.0,53.0,false,playlist_7,The Shape,Dance With the Dead,Diabolic,spotify:track:68ngtC3pGiTjXcFwxYCJ7Z
+2019-04-09 13:10:38,album,257490.0,52.0,false,playlist_7,Darkness,Daniel Deluxe,Darkness,spotify:track:539y2n1UYiM2gyYJKGNuuQ
+2019-04-09 13:28:58,album,409000.0,56.0,false,playlist_7,Volume 1,Magic Sword,In The Face Of Evil,spotify:track:2bHpNAMEsB3Wc00y87JTdn
+2019-04-09 13:29:06,album,267520.0,47.0,false,playlist_7,Streetwalker,Nightstop,Streetwalker,spotify:track:17unhA5Gnc1nLFdg3dKmuO
+2019-04-10 18:14:38,album,268421.0,17.0,false,playlist_7,The Rabbit Hole,The Great Discord,Tell-Tale Heart,spotify:track:1mj87L1Bq4lsMvskI1jHQP
+2018-03-23 20:23:19,album,212080.0,28.0,true,playlist_8,Lilith,Butcher Babies,Oceana,spotify:track:4zYTOBlMea1zloAJzTnxlS
+2018-03-23 20:24:10,album,166773.0,29.0,false,playlist_8,Take It Like a Man,Butcher Babies,Igniter,spotify:track:4oxigLyUxXUmskduZPzaDG
+2018-03-23 20:24:18,album,238053.0,28.0,false,playlist_8,Take It Like a Man,Butcher Babies,The Butcher,spotify:track:5uq5yjBJzneReMpKTJDWLw
+2018-03-23 20:25:09,album,288773.0,16.0,false,playlist_8,新葬ラ謳,MUCC,幸せの終着 - 新,spotify:track:4okxtHbJHA8t1Hbojj9xr3
+2018-03-23 20:26:30,album,281160.0,26.0,false,playlist_8,Take It Like a Man,Butcher Babies,Gravemaker,spotify:track:0Jt0CJbsg3qBqoUl8rYeNm
+2018-03-23 20:26:46,album,186933.0,31.0,false,playlist_8,Lilith,Butcher Babies,The Huntsman,spotify:track:0N10gGHn8GYH8QYyFFnqRa
+2018-03-23 20:27:15,album,207733.0,40.0,false,playlist_8,Lilith,Butcher Babies,Lilith,spotify:track:090jDNgdEVQEv4AsUANKSK
+2018-03-23 20:29:50,album,506762.0,57.0,false,playlist_8,Doom (Original Game Soundtrack),Mick Gordon,Bfg Division,spotify:track:4COR2ZPEyUn0lsbAouRWxA
+2018-03-23 20:30:59,album,189769.0,0.0,false,playlist_8,ROCKISDEAD,Dorothy,Dark Nights,spotify:track:3FOxQ6UYJOmJ1ynG17lw8V
+2018-03-23 20:31:52,album,220520.0,15.0,false,playlist_8,Eleven Eleven,Dinosaur Pile-Up,Anxiety Trip,spotify:track:266sqFCEJ4Yx9CX6ppUgVW
+2018-03-23 20:50:54,album,212946.0,39.0,false,playlist_8,Lilith,Butcher Babies,Headspin,spotify:track:2lxdChJ10PPvAbtDSEukZP
+2018-04-09 19:14:07,album,252760.0,36.0,false,playlist_8,Prevail I,Kobra And The Lotus,TriggerPulse,spotify:track:0C24pXCtlYHY3Dibw1CCIK
+2018-04-09 19:28:17,album,189878.0,34.0,false,playlist_8,Probot,Probot,I Am the Warlock (feat. Jack Black),spotify:track:3n3FKYskxltScdqTn6CJem
+2018-04-09 19:38:54,album,230297.0,37.0,false,playlist_8,Djerv,Djerv,Headstone,spotify:track:5LOEyiFjmrvdnERadH4PkW
+2018-04-26 19:15:14,album,216581.0,39.0,false,playlist_8,Euclid,Tanooki Suit,Lordvessel,spotify:track:5Q95r4NzE20g8RR4KxOdPh
+2018-05-03 18:19:29,album,257106.0,0.0,false,playlist_8,International Blackjazz Society,Shining,The Last Stand,spotify:track:1b4KiV34TkjJzl6CIdD25E
+2018-05-03 18:20:00,album,264390.0,32.0,false,playlist_8,No Good,Battle Tapes,No Good,spotify:track:1ihPzBSgs9MjgrtblFoiq6
+2018-05-03 18:20:10,album,362386.0,29.0,false,playlist_8,A Fair Dream Gone Mad,In the Silence,Ever Closer,spotify:track:3onoNByv0GAAwzuxEkHFFZ
+2018-05-03 18:22:10,album,241146.0,52.0,false,playlist_8,The Serenity of Suffering,Korn,Black Is The Soul,spotify:track:1wYXIhJXqlIAGS6sbzpTL6
+2018-05-03 18:27:19,album,206439.0,33.0,false,playlist_8,Clearview,Poets of the Fall,Drama for Life,spotify:track:3YwQ4SKv3v1tFwL33TRgpU
+2018-05-03 18:40:06,album,269080.0,21.0,false,playlist_8,Strangers,HOTEI,Kill to Love You,spotify:track:0AT2V9JRgXz5NK3P6O2pZp
+2018-05-03 18:46:08,album,293241.0,33.0,false,playlist_8,Melancholia Hymns,Arcane Roots,Matter,spotify:track:436c1dOCTqHKQbgp4MEwVA
+2018-05-03 19:02:41,album,191137.0,47.0,false,playlist_8,If I'm The Devil...,letlive.,A Weak Ago,spotify:track:3rY98pNrVY2OOacnbxbI0E
+2018-05-09 10:08:48,album,183417.0,15.0,false,playlist_8,Elevation,We Are the Catalyst,Without Fear,spotify:track:1tOXCeXpDMuDLNHMmmFXTU
+2018-05-09 10:08:48,album,242183.0,31.0,false,playlist_8,Elevation,We Are the Catalyst,Askja,spotify:track:77O75UxCuHqfK9uiQDoEYb
+2018-05-10 19:57:41,album,256071.0,63.0,false,playlist_8,hometown,cleopatrick,hometown,spotify:track:2kFKIFc5RSTlhuGed6ZNZ7
+2018-05-15 10:32:38,album,379746.0,42.0,false,playlist_8,Bloom,Caligula's Horse,Marigold,spotify:track:4I5NcGVjREt60IThG2GGu9
+2018-05-15 10:33:02,album,332360.0,34.0,false,playlist_8,Bloom,Caligula's Horse,Rust,spotify:track:32snItNwFIFYVlDPQqC8yM
+2018-05-22 09:30:59,album,363933.0,27.0,false,playlist_8,"The Tide, the Thief & River's End (Re-issue 2017)",Caligula's Horse,Dark Hair Down,spotify:track:3NYoc97ULcplGlU2CEV9AG
+2018-05-22 09:31:26,album,931026.0,32.0,false,playlist_8,In Contact,Caligula's Horse,Graves,spotify:track:3cOwY51dJsHidrMFs3hczR
+2018-10-23 19:28:11,album,282520.0,43.0,false,playlist_8,Black Gives Way To Blue,Alice In Chains,All Secrets Known,spotify:track:0vQDhuk73PvmaloRibUiQr
+2018-10-23 19:28:11,album,237906.0,55.0,false,playlist_8,Black Gives Way To Blue,Alice In Chains,Check My Brain,spotify:track:2O2ii9OPZYh1NBXo9FtE0Y
+2018-10-23 19:48:46,album,198080.0,31.0,true,playlist_8,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",Five Finger Death Punch,Cradle to the Grave,spotify:track:5C8IhksvjGqgamzSZGKZw3
+2018-10-23 19:48:46,album,196333.0,17.0,true,playlist_8,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",Five Finger Death Punch,Matter of Time,spotify:track:3iIqVOBpF1nYvzm84UxiXZ
+2018-10-23 19:48:46,album,247400.0,37.0,true,playlist_8,"The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",Five Finger Death Punch,House of the Rising Sun,spotify:track:15qZ8mGSNmqzITIVzCkvqb
+2018-10-23 19:57:17,album,254013.0,2.0,false,playlist_8,LIEBE IST FÜR ALLE DA (SPECIAL EDITION),Rammstein,B********,spotify:track:3yc2Ok7sS5ONzyEhblrMBo
+2018-10-23 19:57:34,album,205440.0,3.0,false,playlist_8,LIEBE IST FÜR ALLE DA (SPECIAL EDITION),Rammstein,LIEBE IST FüR ALLE DA,spotify:track:6OiLqyavvFFKOxln5TbpTV
+2018-10-23 19:58:55,album,232666.0,47.0,false,playlist_8,MADE IN GERMANY 1995 - 2011 (SPECIAL EDITION),Rammstein,ROSENROT,spotify:track:4wvuBtCV9Vy6aEcwYrYmCc
+2018-10-23 20:00:16,album,340626.0,0.0,false,playlist_8,The Stage,Avenged Sevenfold,Angels,spotify:track:4kL8wGehAFldF9gtWJF1jE
+2018-10-23 20:00:27,album,221973.0,3.0,false,playlist_8,The Stage,Avenged Sevenfold,God Damn,spotify:track:67AwhpUrZfSLwK2ekFptmM
+2018-10-23 20:02:10,album,310266.0,56.0,false,playlist_8,Black Widow,In This Moment,Big Bad Wolf,spotify:track:0QB98b4YFxtW4NQ9narHQM
+2018-10-23 20:05:44,album,244318.0,21.0,false,playlist_8,Ego Kill Talent,Ego Kill Talent,Last Ride,spotify:track:4MYuqU9LuwW0r4iNFXVYEM
+2018-10-23 20:05:44,album,189506.0,19.0,false,playlist_8,Ego Kill Talent,Ego Kill Talent,Sublimated,spotify:track:08tiBcNIXLShotCLaXO1GX
+2018-10-23 20:05:44,album,217705.0,7.0,false,playlist_8,Ego Kill Talent,Ego Kill Talent,The Searcher,spotify:track:1EZuFDPgDJW6h8ol9ayPfk
+2018-10-31 20:37:00,album,328386.0,57.0,false,playlist_8,Nightmare,Avenged Sevenfold,Danger Line,spotify:track:7pS3O75hJnthHr64tlpqPn
+2018-10-31 20:37:00,album,315173.0,57.0,true,playlist_8,Nightmare,Avenged Sevenfold,Natural Born Killer,spotify:track:5o8OdhjVZSF2wCj7M8UpMN
+2018-10-31 20:37:00,album,326813.0,65.0,false,playlist_8,Nightmare,Avenged Sevenfold,So Far Away,spotify:track:7Hr1Ignop7cymbE3FbOtXa
+2018-10-31 20:37:00,album,281226.0,51.0,false,playlist_8,Nightmare,Avenged Sevenfold,Tonight the World Dies,spotify:track:1I5RmSqq96UQnjT9EKGMso
+2018-10-31 20:37:00,album,656493.0,56.0,false,playlist_8,Nightmare,Avenged Sevenfold,Save Me,spotify:track:53jogSv23P6DFcOHcZrDs9
+2018-11-07 17:12:00,album,313573.0,77.0,true,playlist_8,Rage Against The Machine - XX (20th Anniversary Special Edition),Rage Against The Machine,Killing In The Name,spotify:track:59WN2psjkt1tyaxjspN8fp
+2018-11-07 17:12:19,album,318586.0,16.0,false,playlist_8,Superunknown (20th Anniversary),Soundgarden,Black Hole Sun,spotify:track:3ztCt91U2wGkDZuzbCwH6H
+2018-11-07 17:12:30,album,200546.0,68.0,false,playlist_8,Phobia (Explicit Version),Breaking Benjamin,The Diary of Jane - Single Version,spotify:track:5pvJ59i7JxylN8VB24xdMs
+2018-11-07 17:12:53,album,293960.0,75.0,false,playlist_8,Audioslave,Audioslave,Like a Stone,spotify:track:3YuaBvuZqcwN3CEAyyoaei
+2018-11-07 17:13:10,album,304840.0,75.0,false,playlist_8,The Resistance,Muse,Uprising,spotify:track:4VqPOruhp5EdPBeR92t6lQ
+2018-11-07 17:13:29,album,310346.0,65.0,false,playlist_8,Core,Stone Temple Pilots,Plush,spotify:track:3jJZVeExYzVYiV6Y9Fl3DX
+2018-11-07 17:13:48,album,229960.0,68.0,false,playlist_8,Skid Row,Skid Row,18 and Life,spotify:track:0qgrrDnUUhyxpxbBznUnzg
+2018-11-14 19:31:02,album,309306.0,43.0,false,playlist_8,Th1rt3en,Megadeth,Sudden Death,spotify:track:2DbEz7cLYTUu48o5D6iCP4
+2018-11-14 19:31:02,album,255373.0,28.0,false,playlist_8,Th1rt3en,Megadeth,Millennium Of The Blind,spotify:track:0Jr8JBSt4ipAy2bwGyPrw9
+2018-11-19 19:31:30,album,505532.0,47.0,false,playlist_8,St. Anger,Metallica,Some Kind Of Monster,spotify:track:4hjTm9cn9ZPwfKnbyW6frn
+2018-11-19 19:31:30,album,313932.0,38.0,false,playlist_8,St. Anger,Metallica,Purify,spotify:track:7ucFoRbiHn7SOVfHFHRjbE
+2018-11-19 19:31:30,album,527892.0,38.0,true,playlist_8,St. Anger,Metallica,All Within My Hands,spotify:track:61MvWKeLK4tjdSuuB8y8B8
+2018-12-20 20:26:04,album,271625.0,6.0,false,playlist_8,Black Hole Sun,Scott Bradlee's Postmodern Jukebox,Black Hole Sun,spotify:track:1p45FzpjdhUK3iA05SrN2D
+2018-12-20 20:26:15,album,196666.0,55.0,false,playlist_8,So No Forevis,Raimundos,Me lambe,spotify:track:76yjNTMsef12pt2OPmRW0U
+2018-12-20 20:27:23,album,281581.0,0.0,false,playlist_8,Zero Hour,Diablo Blvd,Sing from the Gallows,spotify:track:7rfN8SUWxZSeaJFFzM6TP5
+2018-12-20 20:28:42,album,242618.0,36.0,false,playlist_8,Cold World,Of Mice & Men,The Hunger,spotify:track:7n7vOMQgUkE6mvyxU4PVUm
+2018-12-20 20:29:21,album,152186.0,34.0,false,playlist_8,The Boy Who Died Wolf,Highly Suspect,Postres,spotify:track:77NpdcM6UCELVwOOVqzu88
+2019-03-08 13:45:34,album,317191.0,42.0,false,playlist_8,Delirium,Lacuna Coil,The House of Shame,spotify:track:3mEExxNbWKdTJImI7KTvU0
+2019-03-13 14:27:24,album,299015.0,60.0,false,playlist_8,Losing My Life,Falling In Reverse,Losing My Life,spotify:track:6SeFPYWv9lIlSWanyEDYf5
+2019-03-13 14:34:19,album,240493.0,39.0,false,playlist_8,FAKE DIVINE,HYDE,FAKE DIVINE,spotify:track:423ezgdkyIGwVrE02q5hMx
+2019-03-13 17:33:48,album,191226.0,39.0,false,playlist_8,AFTER LIGHT,HYDE,AFTER LIGHT,spotify:track:0pMhyiOrQr6oir8DY2lBAK
+2019-03-13 17:36:17,album,254030.0,25.0,false,playlist_8,Ark (Deluxe Edition),In Hearts Wake,Nomad,spotify:track:4PsT0F7EY48efAQ1HYQ0wp
+2019-03-13 18:46:13,album,209813.0,50.0,false,playlist_8,MAD QUALIA (Japanese Version),HYDE,MAD QUALIA - Japanese Version,spotify:track:04K7XY6Ev4WiUVv2ysyw7b
+2019-03-13 18:46:19,album,151496.0,31.0,false,playlist_8,No Redemption (Official DMC Devil May Cry Soundtrack),Combichrist,Age of Mutation,spotify:track:2SwW5a71vQZa16HCZyl9rk
+2019-03-13 19:07:49,album,288493.0,38.0,false,playlist_8,Making Monsters,Combichrist,Never Surrender,spotify:track:2C6doYBvhQSYclTqpl5oJF
+2019-03-18 12:43:18,album,365479.0,34.0,false,playlist_8,Silent Hill - Homecoming (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,One More Soul to the Call,spotify:track:6nyEo8xc3yInahK4dxS8QP
+2019-03-18 12:43:52,album,196205.0,20.0,false,playlist_8,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Blow Back,spotify:track:1aEL7VJYBnruX24rmQUgnT
+2019-03-18 12:43:52,album,192522.0,26.0,false,playlist_8,Silent Hill - Shattered Memories (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,When You’re Gone,spotify:track:4dTXuXfI4u91uIB3QZYqfv
+2019-03-18 12:43:52,album,245551.0,25.0,false,playlist_8,Silent Hill - Shattered Memories (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Acceptance,spotify:track:0dX7idX80Cc1967CDTySBs
+2019-03-18 12:43:52,album,266031.0,24.0,false,playlist_8,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,O.r.t.,spotify:track:0Y8K3VOqUEOm1ciD1Gzk2Z
+2019-03-18 12:43:52,album,340662.0,28.0,false,playlist_8,Silent Hill - Shattered Memories (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Hell Frozen Rain,spotify:track:5XKMBzWzALaSS9UtPMd5ir
+2019-03-18 12:43:52,album,242155.0,26.0,false,playlist_8,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Shot Down in Flames,spotify:track:1BAAmnJ2Ei5fCXAZjBQRY1
+2019-03-18 12:43:52,album,250958.0,21.0,false,playlist_8,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Hole in the Sky,spotify:track:7gcLA8dBxqF4B9OfW9EYxZ
+2019-03-18 12:43:52,album,278413.0,22.0,false,playlist_8,Silent Hill - Homecoming (Konami Original Game Soundtrack),Akira Yamaoka,This Sacred Line,spotify:track:4EOF63CyjLoWVee0sndqpW
+2019-03-18 12:45:44,album,405212.0,64.0,false,playlist_8,Devil Trigger,Casey Edwards,Devil Trigger,spotify:track:7I8MCiM3A4xvnM6zIiuMZn
+2019-03-18 12:45:44,album,289095.0,50.0,false,playlist_8,Crimson Cloud,Jeff Rona,Crimson Cloud,spotify:track:0Uiqplbhwnvl9txEppdWJv
+2019-03-18 12:45:44,album,318160.0,3.0,false,playlist_8,Devil May Cry Sound Box (Original Game Soundtrack),Tetsuya Shibata,Devils Never Cry (Staff Roll),spotify:track:2ldX63XMX8R8ENHT4OZiBH
+2019-03-18 12:45:44,album,298106.0,2.0,false,playlist_8,Devil May Cry 4 (Original Game Soundtrack),Tetsuya Shibata,Shall Never Surrender (End Credits),spotify:track:51AjJaDJYIZCq234ycrm2a
+2019-03-18 12:47:27,album,269533.0,63.0,false,playlist_8,Magma,Gojira,Stranded,spotify:track:60fUDmIWuKhngaeBIVhqIV
+2019-03-18 12:49:30,album,268582.0,45.0,false,playlist_8,Outlier,Twelve Foot Ninja,One Hand Killing,spotify:track:7lt4K9LqL1KgBgxl6Ly3Ud
+2019-03-18 13:02:28,album,255222.0,29.0,false,playlist_8,The Rabbit Hole,The Great Discord,The Red Rabbit,spotify:track:5o6z2MBmQ9W1OhEycizdW5
+2019-03-18 13:09:41,album,362092.0,57.0,false,playlist_8,Meliora,Ghost,Cirice,spotify:track:3ZXZ9RMsznqgyHnyq0K5FL
+2019-03-18 13:11:18,album,312722.0,45.0,false,playlist_8,II: Grasp of the Undying,Pentakill,Cull,spotify:track:7wrQTNa4QpmntbA8N0IDAn
+2019-03-18 13:17:53,album,300777.0,41.0,false,playlist_8,The Last Hero,Alter Bridge,Island Of Fools,spotify:track:3PwKYa2i1d4rQ0eZUhKQzj
+2019-03-18 13:30:13,album,364640.0,45.0,false,playlist_8,Hail the Apocalypse,Avatar,Bloody Angel,spotify:track:2cQkslUQT9nyvmMNTftd4S
+2019-03-18 13:35:45,album,182500.0,39.0,false,playlist_8,Lo Air,Dead Poet Society,Lo Air,spotify:track:3cxr1nDPXbUgSw2vfHvs2h
+2019-03-18 13:37:51,album,349960.0,11.0,false,playlist_8,period,Girugamesh,period,spotify:track:1tXP07p1dsSu7v5kK6DZnu
+2019-03-18 13:44:12,album,387975.0,31.0,false,playlist_8,Continue?,Powerglove,Kraid's Lair,spotify:track:6mbzP1DCc2wz4DjwJ6AaZT
+2019-03-18 13:47:41,album,404199.0,28.0,false,playlist_8,The Hydra's Tailor,Deadly Circus Fire,House Of Plagues,spotify:track:0JE3kUQokMDdBFL72BYZgW
+2019-03-18 13:50:58,album,257734.0,58.0,false,playlist_8,Doom (Original Game Soundtrack),Mick Gordon,Rip & Tear,spotify:track:5soMJpcVhSrGrB4prvPL6P
+2019-03-18 13:57:21,album,264501.0,37.0,false,playlist_8,Mesmer (Deluxe Edition),Northlane,Citizen - Instrumental,spotify:track:696eNRIkeGk04kvkiRRY47
+2019-03-18 14:18:37,album,259469.0,33.0,false,playlist_8,Shapes,Constructs,Signals,spotify:track:0CLjhpOb402D7U4vqFZCFH
+2019-03-18 14:30:20,album,162666.0,68.0,false,playlist_8,Celebrity Skin,Hole,Celebrity Skin,spotify:track:2V4Bc2I962j7acQj1N0PiQ
+2019-03-18 14:32:52,album,139986.0,18.0,false,playlist_8,Women With Attitude,The Runaways,Cherry Bomb,spotify:track:6CdR5Zu0bpP03XjpNycbaa
+2019-03-18 14:36:34,album,140480.0,52.0,false,playlist_8,Elastica,Elastica,Connection,spotify:track:53LZqMzQEnjBkFXPqOq0cD
+2019-03-18 18:48:35,album,186066.0,67.0,true,playlist_8,Life,Dope,Die MF Die,spotify:track:5bU4KX47KqtDKKaLM4QCzh
+2019-03-18 18:54:46,album,315986.0,36.0,false,playlist_8,Perils Of The Deep Blue,Sirenia,My Destiny Coming To Pass,spotify:track:6p2iiGV6iIqFdFrPz1Ktbx
+2019-03-18 18:56:28,album,179240.0,62.0,false,playlist_8,Breaking The Model,New Medicine,Fire Up The Night,spotify:track:0R7KP4GlUebdefGw2Sw9eh
+2019-03-18 18:59:38,album,222666.0,39.0,false,playlist_8,Black Out The Sun,Sevendust,Murder Bar,spotify:track:1vo1kaYzGxtq5uGVyzos9E
+2019-03-18 19:03:07,album,193880.0,49.0,false,playlist_8,Dark Adrenaline,Lacuna Coil,Trip the Darkness,spotify:track:071qZ9lL7h6ULW1WNgQjE3
+2019-03-18 19:16:19,album,205626.0,35.0,false,playlist_8,Eye of Providence,The Agonist,Gates of Horn and Ivory,spotify:track:3DypApeEr6V617nb37He9F
+2019-03-18 19:26:57,album,202306.0,56.0,false,playlist_8,The Strange Case of... (Deluxe),Halestorm,Mz. Hyde,spotify:track:78mjaBatbfvwx5KJwI036H
+2019-03-18 19:40:05,album,192386.0,35.0,false,playlist_8,WHO’S GONNA SAVE US,HYDE,WHO'S GONNA SAVE US,spotify:track:1cpkLUS6ZOD7u8AJuD4YUU
+2019-03-18 19:43:46,album,248053.0,64.0,true,playlist_8,Tenacious D,Tenacious D,Tribute,spotify:track:6crBy2sODw2HS53xquM6us
+2019-03-18 19:54:59,album,165697.0,59.0,false,playlist_8,The Pick Of Destiny,Tenacious D,The Metal,spotify:track:3pYKJaLiixRcDFfcNhxZKK
+2019-03-19 13:02:38,album,235653.0,58.0,false,playlist_8,Light Me Up,The Pretty Reckless,Make Me Wanna Die,spotify:track:0KGIbrNYktDXYyHopcDI2L
+2019-03-19 13:07:55,album,224106.0,0.0,false,playlist_8,The Open Door,Evanescence,Lithium,spotify:track:4K8KWU9Nd3QCAiAWAKpjjS
+2019-03-19 13:12:06,album,198762.0,58.0,false,playlist_8,Monster,Paramore,Monster - Transformers Soundtrack Version,spotify:track:04BSvYghzdxjSJNpee36er
+2019-03-19 13:36:27,album,176160.0,38.0,false,playlist_8,Flyleaf,Flyleaf,I'm So Sick,spotify:track:6znbTbavmg6c6mrWK81GqQ
+2019-03-19 13:47:19,album,226400.0,57.0,false,playlist_8,Absolute Garbage,Garbage,Only Happy When It Rains,spotify:track:0c1iL21nLuQNZTWiijOZUG
+2019-03-19 13:57:12,album,207586.0,2.0,false,playlist_8,Blood,In This Moment,Blood,spotify:track:308BpHy6evPQz9hSPpSLNf
+2019-03-19 14:01:25,album,245573.0,56.0,false,playlist_8,Karmacode,Lacuna Coil,Enjoy the Silence,spotify:track:71KtwiEpzcn9WxwlaS7ZJY
+2019-03-19 14:15:13,album,239213.0,34.0,false,playlist_8,Delirium,Lacuna Coil,Broken Things,spotify:track:71xXyCmzYGQS1B6eF6U0pg
+2019-03-19 14:27:29,album,236266.0,40.0,true,playlist_8,Delirium,Lacuna Coil,My Demons,spotify:track:31B9r2N9vAqhHciZanfucd
+2019-03-19 20:17:20,album,261506.0,19.0,false,playlist_8,Prevail II,Kobra And The Lotus,Losing My Humanity,spotify:track:5SAL0TJDz3EXn4ByipLndJ
+2019-03-19 20:18:40,album,263986.0,14.0,false,playlist_8,Prevail I,Kobra And The Lotus,You Don't Know,spotify:track:6ubp7SmSZDkJiII5F6jQCc
+2019-03-19 20:20:19,album,299820.0,55.0,false,playlist_8,Black Widow,In This Moment,Sick Like Me,spotify:track:76AYOdnKWcSLviCsKDXyS1
+2019-03-19 20:20:51,album,238013.0,51.0,false,playlist_8,Ritual,In This Moment,River of Fire,spotify:track:1HNRXicnRXw34nouoSQi3c
+2019-03-19 20:20:59,album,244773.0,67.0,false,playlist_8,As Daylight Dies (Special Edition),Killswitch Engage,My Curse,spotify:track:6zKF4293k44ItKWJJgrhXv
+2019-03-19 20:24:10,album,272440.0,71.0,false,playlist_8,Mutter,Rammstein,Sonne,spotify:track:3gVhsZtseYtY1fMuyYq06F
+2019-03-19 20:24:21,album,261680.0,45.0,true,playlist_8,Sevas Tra,Otep,Battle Ready,spotify:track:7J9tkRgN26YmIHXl4fnVlp
+2019-03-19 20:24:49,album,239200.0,40.0,false,playlist_8,Smash The Control Machine,Otep,"Rise, Rebel, Resist",spotify:track:5OzH78l5I2ztipL0r8NaOK
+2019-03-19 20:27:44,album,263053.0,36.0,true,playlist_8,The Ascension,Otep,Ghostflowers,spotify:track:55I6kGwBh5Dymqtn0Txi1Q
+2019-03-19 20:27:49,album,243893.0,39.0,true,playlist_8,Sevas Tra,Otep,Blood Pigs,spotify:track:5t4raLj2HuARdxKoDefT57
+2019-03-19 20:28:29,album,223546.0,36.0,false,playlist_8,Smash The Control Machine,Otep,Smash the Control Machine,spotify:track:4wARWUOGya1Q9ldbPzdcrf
+2019-03-19 20:28:35,album,259279.0,33.0,true,playlist_8,The Ascension,Otep,Crooked Spoons,spotify:track:2ybo43ThZJZJMfFdjgkrCK
+2019-03-19 20:33:18,album,224546.0,41.0,false,playlist_8,Lullabies Of The Dormant Mind,The Agonist,"Thank You, Pain",spotify:track:0DNqmTzg21AVqL4WFDZ9OT
+2019-03-19 20:36:04,album,230769.0,21.0,false,playlist_8,Terra,Johari,In the Garden of Beasts,spotify:track:7ivt9fj1WBFTIOrdDegwmz
+2019-03-20 13:23:28,album,210067.0,27.0,false,playlist_8,Heart,The Great Discord,Heart,spotify:track:6W6v8YnNcuYpIKQs3PBef3
+2019-03-20 13:45:32,album,220000.0,31.0,false,playlist_8,The Rabbit Hole,The Great Discord,Omen,spotify:track:6CNECL0qynClheFnYBdfvc
+2019-03-20 13:47:26,album,318750.0,30.0,false,playlist_8,Echoes,The Great Discord,Ephemeral (Radio Edit),spotify:track:1KvlZQ64H7HWeGb3jGzLzT
+2019-03-20 13:48:29,album,250181.0,29.0,false,playlist_8,Army of Me,The Great Discord,Army of Me,spotify:track:7tdvDVIsMhnCnNVgUIPySq
+2019-03-20 14:01:37,album,246750.0,20.0,false,playlist_8,The Rabbit Hole,The Great Discord,Noire,spotify:track:4emfh95cQIALVrEraoPrkn
+2019-03-20 14:08:14,album,231461.0,18.0,false,playlist_8,The Rabbit Hole,The Great Discord,Cadence,spotify:track:66AkYibFf7JMBpz0AZ9kSQ
+2019-03-20 14:08:34,album,211457.0,17.0,false,playlist_8,The Rabbit Hole,The Great Discord,Gadget,spotify:track:3k9A6DulALNVTURNddIUwh
+2019-03-20 14:18:23,album,202040.0,52.0,false,playlist_8,Coming in Hot,DIAMANTE,Haunted,spotify:track:1yn1CphEmVt16RnmbDJ5xc
+2019-03-20 18:50:18,album,316717.0,68.0,true,playlist_8,Drones,Muse,Psycho,spotify:track:383QXk8nb2YrARMUwDdjQS
+2019-03-20 18:51:13,album,189440.0,67.0,false,playlist_8,Hypnotize,System Of A Down,Hypnotize,spotify:track:6oO7WMjD6kEvCITLbVj0mu
+2019-03-20 18:55:41,album,326983.0,66.0,false,playlist_8,This Is War,Thirty Seconds To Mars,This Is War,spotify:track:2D52zjCyqEIQa221lhw6uk
+2019-03-20 18:56:05,album,218933.0,77.0,false,playlist_8,Toxicity,System Of A Down,Toxicity,spotify:track:0snQkGI5qnAmohLE7jTsTn
+2019-03-20 18:56:10,album,255466.0,74.0,true,playlist_8,Mezmerize,System Of A Down,B.Y.O.B.,spotify:track:0EYOdF5FCkgOJJla8DI2Md
+2019-03-20 18:56:17,album,235053.0,73.0,false,playlist_8,Toxicity,System Of A Down,Aerials,spotify:track:4e9eGQYsOiBcftrWXwsVco
+2019-03-20 18:56:38,album,153800.0,67.0,true,playlist_8,System Of A Down (Bonus Pack),System Of A Down,Sugar,spotify:track:31RTFPrB7wmYBhlkM2ILXG
+2019-03-20 18:56:49,album,320693.0,65.0,false,playlist_8,Mezmerize,System Of A Down,Lost In Hollywood,spotify:track:0GrHWVTDsaWcD4nrCGr7VE
+2019-03-20 18:57:08,album,216533.0,54.0,false,playlist_8,Hypnotize,System Of A Down,Tentative,spotify:track:11WZXXvGyrtUBp15TtojxA
+2019-03-20 18:57:18,album,328866.0,60.0,false,playlist_8,Hypnotize,System Of A Down,Holy Mountains,spotify:track:4mj2UMyJTBTaO7pffAK29j
+2019-03-20 18:57:59,album,200600.0,63.0,false,playlist_8,Mezmerize,System Of A Down,Question!,spotify:track:6y2DHyCYf6azhUfXmnuH6w
+2019-03-20 18:58:05,album,205800.0,57.0,false,playlist_8,Mezmerize,System Of A Down,Sad Statue,spotify:track:1wGRSG94dLt8fIZWhR3rGG
+2019-03-20 18:58:10,album,176866.0,56.0,false,playlist_8,Mezmerize,System Of A Down,Old School Hollywood,spotify:track:6iFVJGxSVdFkzYQJL7Rgdk
+2019-03-20 18:58:23,album,116893.0,47.0,false,playlist_8,Steal This Album!,System Of A Down,Bubbles,spotify:track:4dJMoLxnO93Ys7SqZNIxlg
+2019-03-20 18:58:42,album,188600.0,56.0,true,playlist_8,Steal This Album!,System Of A Down,I-E-A-I-A-I-O,spotify:track:3RgDvs9Jpvn3kUuaTek1R5
+2019-03-20 18:58:54,album,193626.0,48.0,false,playlist_8,Steal This Album!,System Of A Down,Highway Song,spotify:track:4TRPgtjVmqg7EAWZe1T94E
+2019-03-20 18:59:01,album,201906.0,47.0,false,playlist_8,Steal This Album!,System Of A Down,Ego Brain,spotify:track:2HVCLZ6dMDelXhloO5sAjV
+2019-03-20 18:59:10,album,201200.0,53.0,false,playlist_8,Steal This Album!,System Of A Down,Roulette,spotify:track:4sM7v7wyRAuV6ZTO2dvnCA
+2019-03-20 18:59:29,album,240106.0,59.0,false,playlist_8,Toxicity,System Of A Down,Forest,spotify:track:1B5Y9I5wPfvD3C2A81A36C
+2019-03-20 18:59:38,album,162666.0,57.0,false,playlist_8,Toxicity,System Of A Down,Science,spotify:track:58lcznIKSNlOVdmklrPA99
+2019-03-20 19:00:42,album,229840.0,67.0,true,playlist_8,House of Gold & Bones Part 1,Stone Sour,Absolute Zero,spotify:track:14EORgkbXqIx5K4Haucmnb
+2019-03-20 19:00:58,album,515386.0,73.0,false,playlist_8,Master Of Puppets (Remastered),Metallica,Master Of Puppets,spotify:track:2MuWTIM3b0YEAskbeeFE1i
+2019-03-20 19:01:56,album,210133.0,66.0,false,playlist_8,The Battle Of Los Angeles,Rage Against The Machine,Testify,spotify:track:7lmeHLHBe4nmXzuXc0HDjk
+2019-03-20 19:02:23,album,311813.0,68.0,false,playlist_8,City Of Evil (PA Version),Avenged Sevenfold,Bat Country,spotify:track:3sHH7lklbfpcraDDvYnjo7
+2019-03-20 19:02:31,album,252613.0,75.0,false,playlist_8,Vol. 3: The Subliminal Verses [Special Package],Slipknot,Duality,spotify:track:61mWefnWQOLf90gepjOCb3
+2019-03-20 19:03:09,album,153773.0,57.0,false,playlist_8,Steal This Album!,System Of A Down,Innervision,spotify:track:0Xmbtw7NhNiDnL4BWy5wDh
+2019-03-20 19:06:15,album,279333.0,61.0,false,playlist_8,Audioslave,Audioslave,Gasoline,spotify:track:33AxY0QUitvte6JV6B6uLE
+2019-03-21 19:30:30,album,273194.0,58.0,false,playlist_8,Dig Deep,After The Burial,Lost In The Static,spotify:track:5QLH7zAdcAJLgR25gtvtoK
+2019-03-21 19:30:48,album,278600.0,73.0,false,playlist_8,Vol. 3: The Subliminal Verses [Special Package],Slipknot,Before I Forget,spotify:track:6wqJeItl3Vc3az4ZicSQAB
+2019-03-21 19:32:05,album,249133.0,58.0,true,playlist_8,Ritual,In This Moment,Roots,spotify:track:5wBaNy59nK8hJnx8AB2zRe
+2019-03-21 19:35:09,album,229773.0,66.0,false,playlist_8,Lifelines,I Prevail,Scars,spotify:track:6WaYiQUPel70HUaCZj5eND
+2019-03-22 13:39:34,album,327746.0,33.0,false,playlist_8,Once Only Imagined,The Agonist,Business Suits and Combat Boots,spotify:track:7x86D0wH2PrWgSLz8Wtnzf
+2019-03-22 13:41:20,album,241080.0,31.0,false,playlist_8,Eye of Providence,The Agonist,Danse Macabre,spotify:track:4GFGnWzqjt28O9t8JAO2eF
+2019-03-22 13:58:44,album,248213.0,23.0,false,playlist_8,Eye of Providence,The Agonist,I Endeavor,spotify:track:4JM2NfRcxtUw6dmgKM5bwn
+2019-03-22 14:02:47,album,300493.0,25.0,false,playlist_8,Eye of Providence,The Agonist,Faceless Messenger,spotify:track:1OaNPfYZ465r5INNSKOCKy
+2019-03-22 14:06:59,album,274826.0,23.0,false,playlist_8,Eye of Providence,The Agonist,Perpetual Notion,spotify:track:6ikcUdBnl1jiAcJzKKw05n
+2019-03-22 14:18:12,album,212466.0,24.0,false,playlist_8,Eye of Providence,The Agonist,Disconnect Me,spotify:track:725psKOmvjhV8lZ5X1YJ4o
+2019-03-22 17:47:58,album,477440.0,21.0,false,playlist_8,Eye of Providence,The Agonist,"As Above, So Below",spotify:track:3DIHtSrfsww1llW0aoRQtl
+2019-03-22 17:49:10,album,242680.0,51.0,true,playlist_8,Breaking Down / Bow Down,I Prevail,Bow Down,spotify:track:4U9BOwX61f1TCXdukPa2ub
+2019-03-22 18:01:27,album,214280.0,56.0,false,playlist_8,Spineless,Blood Youth,Spineless,spotify:track:224KDhjlE8K0OeXlQI7vXZ
+2019-03-22 18:04:04,album,189600.0,59.0,false,playlist_8,The Old Me,Memphis May Fire,The Old Me,spotify:track:7LsAld1wdZSVk7gvtY1S94
+2019-03-22 18:06:45,album,228447.0,63.0,false,playlist_8,Low,Wage War,Low,spotify:track:0OiqmkoWLbaq2S7rvlwPSF
+2019-03-22 18:24:55,album,340132.0,72.0,true,playlist_8,All Out Life,Slipknot,All Out Life,spotify:track:6vAQtUlYrzolE6SS9QCTs5
+2019-03-22 18:34:43,album,214399.0,54.0,false,playlist_8,The Hell I Overcame,Bad Omens,The Hell I Overcame,spotify:track:6g7vndAmUE7X1jcLR9HZSy
+2019-03-22 18:38:34,album,257800.0,50.0,false,playlist_8,Paralyzed,Dream Theater,Paralyzed,spotify:track:527rOHTuKjeF5vpF0zkr9S
+2019-03-22 18:47:04,album,268449.0,51.0,true,playlist_8,Eternal Machine,Betraying The Martyrs,Eternal Machine,spotify:track:582C5A8zcJJtgX5vhWfhPD
+2019-03-22 18:52:40,album,358120.0,47.0,false,playlist_8,Blood Eagle,Periphery,Blood Eagle,spotify:track:77Dj9s0W077FDWgEUpzQhu
+2019-03-22 18:54:12,album,240660.0,33.0,false,playlist_8,Savior,Any Given Day,Savior,spotify:track:754rWf13aiZhl8xaSYg5J4
+2019-03-22 18:56:48,album,203030.0,42.0,true,playlist_8,Coma Blue,Annisokay,Coma Blue,spotify:track:050UDADRxQ1nU4e3oFft8K
+2019-03-22 19:00:20,album,226320.0,52.0,false,playlist_8,Still Breathing,Fight The Fury,Dominate Me,spotify:track:4Pf95KrUvj48z2ChGNA5Ye
+2019-03-22 19:28:53,album,247733.0,47.0,false,playlist_8,Close Enough,Demon Hunter,Close Enough,spotify:track:741ma9luSEyhnDjq2lAPEK
+2019-03-28 18:51:43,album,224573.0,22.0,false,playlist_8,Eye of Providence,The Agonist,A Necessary Evil,spotify:track:0BcMpyxOH6LZYtjCP2m0lD
+2019-03-28 18:55:18,album,193640.0,27.0,true,playlist_8,When Skies Wash Ashore,Straight Line Stitch,Black Veil,spotify:track:7L2c2nxKPih4qOjIas542L
+2019-03-28 19:07:00,album,404853.0,19.0,false,playlist_8,The Hydra's Tailor,Deadly Circus Fire,Where It Lies,spotify:track:5BD4qWlg2L9NsQqLU62DvW
+2019-03-28 19:18:03,album,243106.0,51.0,false,playlist_8,Karmacode,Lacuna Coil,Our Truth,spotify:track:6vS5siwSidItcWFXskcpAA
+2019-03-28 19:18:04,album,226786.0,56.0,false,playlist_8,Incarnate,Killswitch Engage,Hate By Design,spotify:track:6xXIMiJeAHZZcoReecFZwD
+2019-03-28 19:18:54,album,228506.0,18.0,true,playlist_8,Stormsleeper,Spoil Engine,Doomed to Die,spotify:track:6uBx1fCBDuM8fXNYMyqM3l
+2019-03-28 19:35:56,album,262493.0,54.0,false,playlist_8,Black Widow,In This Moment,Sex Metal Barbie,spotify:track:75BGF4LC7AOLFfxn6ukZDH
+2019-03-28 19:37:47,album,247466.0,48.0,false,playlist_8,Black Widow,In This Moment,Dirty Pretty,spotify:track:1kYR2wTYZUsZ2Gcx7yPYSZ
+2019-03-28 19:37:53,album,298466.0,44.0,false,playlist_8,Black Widow,In This Moment,Black Widow,spotify:track:5gc7XfphkR2jispckOKwiM
+2019-03-28 19:38:08,album,260160.0,47.0,false,playlist_8,Black Widow,In This Moment,Bloody Creature Poster Girl,spotify:track:0eHIMJCzU1QV0R6OHeLOuR
+2019-03-28 19:38:21,album,292506.0,52.0,false,playlist_8,Black Widow,In This Moment,The Fighter,spotify:track:54sEj5GIx2EW78nRDyC58R
+2019-03-28 19:38:42,album,270253.0,41.0,false,playlist_8,Black Widow,In This Moment,Bones,spotify:track:5gbxjsBPzpjZuPvIptYvPi
+2019-03-28 19:39:08,album,284120.0,67.0,false,playlist_8,All Hope Is Gone (10th Anniversary),Slipknot,Psychosocial,spotify:track:3RAFcUBrCNaboRXoP3S5t1
+2019-03-28 19:46:54,album,239226.0,27.0,false,playlist_8,Lilith,Butcher Babies,Underground and Overrated,spotify:track:06odvt7lQtGi2UCiwX9gEV
+2019-03-28 19:59:39,album,235826.0,27.0,false,playlist_8,Take It Like a Man,Butcher Babies,The Cleansing,spotify:track:0ueOqNYjOezWi1aCkQFK9k
+2019-03-28 20:00:39,album,230293.0,27.0,true,playlist_8,Stormsleeper,Spoil Engine,Disconnect,spotify:track:0lU2pzaOwLR03T2pR7HXev
+2019-03-28 20:03:14,album,252280.0,58.0,false,playlist_8,Doomsday Machine,Arch Enemy,Nemesis,spotify:track:27sTzAelgljD6Uxp88BqA3
+2019-03-28 20:05:06,album,311000.0,21.0,false,playlist_8,"The Sick, Dumb & Happy",The Charm The Fury,Blood And Salt,spotify:track:6439bTwAYJA1U4e4WT9p7U
+2019-03-28 20:16:25,album,279253.0,33.0,false,playlist_8,"The Sick, Dumb & Happy",The Charm The Fury,Echoes,spotify:track:340TMuAHJkk7WIQ6B1XpQK
+2019-03-28 20:18:50,album,456320.0,58.0,false,playlist_8,Unto The Locust (Special Edition),Machine Head,Locust,spotify:track:2fed1yXI1clOEddfGyKyH2
+2019-04-01 14:22:24,album,225746.0,32.0,false,playlist_8,Shutdown.ɘxe,3TEETH,Shutdown,spotify:track:4A2ekPbgWSgjPkFwwDzw3a
+2019-04-01 14:38:22,album,300712.0,27.0,false,playlist_8,Winter,Oceans of Slumber,Suffer the Last Bridge,spotify:track:3Kyah08cIZJKhjnUa3vHJ2
+2019-04-01 18:29:56,album,237529.0,31.0,false,playlist_8,The Sign of Faith,Ignea,Alexandria,spotify:track:2BKkg41mf62spyRLR3Gx6z
+2019-04-01 18:46:53,album,208177.0,40.0,false,playlist_8,One of Us is the Killer,The Dillinger Escape Plan,One of Us is the Killer,spotify:track:6bSZPUVSKdGjSdeEEPzycS
+2019-04-01 18:52:14,album,328453.0,18.0,false,playlist_8,Prevail I,Kobra And The Lotus,Gotham,spotify:track:2ozNOZsigw3bJ8570HhVwa
+2019-04-01 19:04:08,album,260320.0,42.0,false,playlist_8,Low Life,DIRT,Low Life,spotify:track:4yKnTwWOmQjMTF6U9sgWtY
+2019-04-01 19:11:06,album,209908.0,34.0,true,playlist_8,Letchology,Dirty Shirt,Put It On,spotify:track:6bOieYGfifp6L1AuY3KWzt
+2019-04-01 19:16:24,album,236377.0,55.0,false,playlist_8,Dark Matter,The Word Alive,Trapped,spotify:track:00WVclSOdTPuLYTott68Wl
+2019-04-01 19:20:51,album,276866.0,61.0,true,playlist_8,The Silver Scream,Ice Nine Kills,Stabbing In The Dark,spotify:track:7H5q9RsWBDRrKq2qCdv2HG
+2019-04-01 19:24:29,album,249746.0,63.0,true,playlist_8,The Silver Scream,Ice Nine Kills,The American Nightmare,spotify:track:04K2bMi2vyOBwxr5EjDq5O
+2019-04-02 18:44:42,album,267997.0,4.0,true,playlist_8,Don't Need You (Edit),Bullet For My Valentine,Don't Need You - Edit,spotify:track:2Cv8fs0SPLX1XaLQ80Lvds
+2019-04-02 18:45:39,album,253445.0,63.0,true,playlist_8,Cross Off,Mark Morton,Cross Off,spotify:track:1UtLHK1KdLD1haUlY5YoSg
+2019-04-02 19:16:46,album,229816.0,39.0,false,playlist_8,I Am Above,In Flames,I Am Above,spotify:track:6RbSpgqV4oDW0x6NxeHlqn
+2019-04-02 19:23:34,album,243913.0,2.0,false,playlist_8,The Mortal Coil,Polaris,The Remedy,spotify:track:69ow35I1jI6gYI45H1Bw7e
+2019-04-02 19:48:35,album,342821.0,71.0,false,playlist_8,.5: The Gray Chapter (Special Edition),Slipknot,The Devil In I,spotify:track:5hheGdf1cb4rK0FNiedCfK
+2019-04-02 19:54:57,album,268586.0,54.0,false,playlist_8,All Hope Is Gone (10th Anniversary),Slipknot,Dead Memories,spotify:track:7eRG7KNDIgjIk3nvykmhOT
+2019-04-02 19:56:51,album,306080.0,45.0,true,playlist_8,.5: The Gray Chapter,Slipknot,Sarcastrophe,spotify:track:7b96P5WRVoixTmssXpFL9N
+2019-04-02 19:56:58,album,332906.0,45.0,true,playlist_8,.5: The Gray Chapter,Slipknot,AOV,spotify:track:30ok0FxMYe6Ey3LHTL4AxB
+2019-04-02 19:57:43,album,225066.0,49.0,true,playlist_8,.5: The Gray Chapter,Slipknot,Killpop,spotify:track:1LFinV2mx4m4vBJu6TDrmz
+2019-04-02 19:58:22,album,290426.0,42.0,true,playlist_8,.5: The Gray Chapter,Slipknot,Lech,spotify:track:7ulHfn6hWuK8nmsQXycYXa
+2019-04-02 19:59:03,album,258360.0,43.0,true,playlist_8,.5: The Gray Chapter,Slipknot,Nomadic,spotify:track:6lFmvTnEQiZrkmlfiukMzK
+2019-04-02 20:01:12,album,243266.0,51.0,false,playlist_8,House of Gold & Bones Part 1,Stone Sour,Gone Sovereign,spotify:track:7c3DfsUMhDTnf2JewbfU8w
+2019-04-02 20:06:05,album,325626.0,53.0,false,playlist_8,House of Gold & Bones Part 1,Stone Sour,Taciturn,spotify:track:0pVL6gE6ebXHExO9IzrJDQ
+2019-04-02 20:07:00,album,269280.0,39.0,false,playlist_8,House of Gold & Bones Part 1,Stone Sour,Influence of a Drowsy God,spotify:track:56OORedNjFtHSG30bo6QCo
+2019-04-02 20:07:14,album,181013.0,40.0,true,playlist_8,House of Gold & Bones Part 1,Stone Sour,Last of the Real,spotify:track:5hGijWiJRedcgP9I3xdD6q
+2019-04-02 20:07:35,album,279146.0,41.0,false,playlist_8,House of Gold & Bones Part 2,Stone Sour,Red City,spotify:track:5lFX4A9y2qwfgKULw1J32K
+2019-04-02 20:09:15,album,307640.0,43.0,false,playlist_8,House of Gold & Bones Part 2,Stone Sour,Sadist,spotify:track:0lDX0Pkth7pXYUzTvuKgln
+2019-04-02 20:09:22,album,251253.0,40.0,false,playlist_8,House of Gold & Bones Part 2,Stone Sour,Peckinpah,spotify:track:2FngpunDZn5SEjkEAbBaxB
+2019-04-02 20:09:35,album,281213.0,35.0,false,playlist_8,House of Gold & Bones Part 2,Stone Sour,Gravesend,spotify:track:6wXUTQI5qVgJICnNWyUz1S
+2019-04-02 20:11:04,album,241800.0,35.0,false,playlist_8,House of Gold & Bones Part 2,Stone Sour,The Uncanny Valley,spotify:track:5cMh0wkTZXKdlYFtGEny7n
+2019-04-02 20:11:48,album,224426.0,48.0,false,playlist_8,House of Gold & Bones Part 2,Stone Sour,Do Me A Favor,spotify:track:4Ma6fKktonx1Tu7Lzljcz5
+2019-04-02 20:12:59,album,283053.0,43.0,true,playlist_8,House of Gold & Bones Part 2,Stone Sour,The House Of Gold & Bones,spotify:track:3GUDcoI8YXplwIjMcmyT0F
+2019-04-10 13:05:24,album,316720.0,24.0,false,playlist_8,Afterbirth,The Great Discord,Neon Dreaming,spotify:track:20qCGI8SY8dSqBz5v94hfs
+2019-04-10 13:21:20,album,249000.0,15.0,false,playlist_8,Duende,The Great Discord,Eigengrau,spotify:track:2xmhMWNdMtu4pNzLgZVKb1
+2019-04-10 17:47:21,album,254000.0,12.0,false,playlist_8,Duende,The Great Discord,Selfæta,spotify:track:1V8e2te3Mh1MthjwKC6CSg
+2019-04-10 17:52:10,album,251000.0,12.0,false,playlist_8,Duende,The Great Discord,A Discordant Call,spotify:track:1K8ACFR9Y5EN8QwuC6flTU
+2019-04-10 18:04:15,album,272647.0,26.0,false,playlist_8,The Rabbit Hole,The Great Discord,Darkest Day,spotify:track:3tGipj34cuR7SfBiP4iXGK
+2019-04-10 18:14:42,album,268421.0,17.0,false,playlist_8,The Rabbit Hole,The Great Discord,Tell-Tale Heart,spotify:track:1mj87L1Bq4lsMvskI1jHQP
+2019-04-10 18:18:13,album,51000.0,13.0,false,playlist_8,The Rabbit Hole,The Great Discord,Downfall,spotify:track:3PVkPbjuZtDJ4ZmDF4iirp
+2019-04-10 18:22:46,album,319636.0,15.0,false,playlist_8,The Rabbit Hole,The Great Discord,Persona,spotify:track:77Bw7vGfqR6UhiVsugZmuU
+2019-04-10 18:38:24,album,261734.0,40.0,false,playlist_8,Lun,Destiny Potato,Take a Picture,spotify:track:5FWJgb9sESNmV5LQyQftL8
+2019-04-10 18:42:22,album,241746.0,38.0,false,playlist_8,Phantom Amour,Toothgrinder,The Shadow,spotify:track:6rLASbKbKCPQjB5WrkOpCx
+2019-04-10 18:54:35,album,231346.0,49.0,false,playlist_8,Malina,Leprous,From the Flame,spotify:track:1tBxs9BqNlBXbIxVaCBrv5
+2019-04-10 19:05:16,album,258000.0,11.0,false,playlist_8,Echoes,The Great Discord,Cherry Waves,spotify:track:6ebAzeEAZvWJiRoUjB40Ro
+2019-04-10 19:46:28,album,256000.0,34.0,false,playlist_8,Obey,Priest,Obey,spotify:track:7mx4a5ffaLohgtRdLS57RE
+2019-04-12 16:12:11,album,277840.0,70.0,false,playlist_8,Audioslave,Audioslave,Show Me How to Live,spotify:track:1Qdnvn4XlmZANCVy3XjrQo
+2019-04-12 16:12:22,album,222026.0,67.0,false,playlist_8,Audioslave,Audioslave,Cochise,spotify:track:1TDk2Jmi4dVZhm2dum3Jim
+2019-04-12 16:50:17,album,259786.0,46.0,false,playlist_8,Catacombs,Like A Storm,The Devil Inside,spotify:track:6TMzS25keDXH4Le5WRZS86
+2019-04-12 20:19:02,album,290280.0,54.0,false,playlist_8,Sound City - Real to Reel,Corey Taylor,From Can to Can't,spotify:track:0cqkujgud4p3rTT5yJ4dz3
+2019-04-12 20:21:51,album,231689.0,29.0,false,playlist_8,BURN IT,FEVER 333,BURN IT,spotify:track:5YVMcqVtrNuy41qRyu55ag
+2019-04-12 20:22:12,album,200676.0,64.0,false,playlist_8,Bad Vibrations (Deluxe Edition),A Day To Remember,Paranoia,spotify:track:3HhaSocKwTptze7PySNZlW
+2019-04-12 20:24:11,album,251560.0,26.0,false,playlist_8,Here Comes The Boom,Rise Of The Northstar,Here Comes The Boom,spotify:track:77IT4xVnDLErYjtjKYUMOt
+2019-04-12 20:26:09,album,187946.0,47.0,false,playlist_8,Forever,Code Orange,Forever,spotify:track:1G6czdqgskwJ4cBgx9CDAJ
+2019-04-12 20:30:23,album,187081.0,36.0,false,playlist_8,Prepare for Payback,Sworn Enemy,Prepare for Payback,spotify:track:3VuSAFu0N7xqueMXoNUSgv
+2019-04-12 20:37:10,album,197314.0,44.0,true,playlist_8,Welcome to the West Coast II,Lionheart,Trial by Fire,spotify:track:0DRhN7G5jfmZZqUyN6uy1B
+2019-04-12 20:37:47,album,192436.0,43.0,false,playlist_8,Posthuman,Harms Way,Become a Machine,spotify:track:6Xt6hMb6cxdZ29ULtdQIFl
+2019-04-12 20:42:42,album,203133.0,20.0,false,playlist_8,Outsider,Comeback Kid,Absolute,spotify:track:5PlA40awjSFJbfWhB1J7ZR
+2018-11-23 14:46:11,album,365479.0,34.0,false,playlist_9,Silent Hill - Homecoming (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,One More Soul to the Call,spotify:track:6nyEo8xc3yInahK4dxS8QP
+2018-11-23 14:47:18,album,196205.0,20.0,false,playlist_9,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Blow Back,spotify:track:1aEL7VJYBnruX24rmQUgnT
+2018-11-23 14:46:20,album,326295.0,24.0,false,playlist_9,Silent Hill - Homecoming (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Elle Theme,spotify:track:1gGbzPViL0HOXKCbxF9G12
+2018-11-23 14:46:28,album,300068.0,26.0,false,playlist_9,Silent Hill - Homecoming (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Alex Theme - Machine Head Mix,spotify:track:3oI0v4kZZQPqsLavnfVttO
+2018-11-23 14:46:36,album,192522.0,26.0,false,playlist_9,Silent Hill - Shattered Memories (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,When You’re Gone,spotify:track:4dTXuXfI4u91uIB3QZYqfv
+2018-11-23 14:46:46,album,245551.0,25.0,false,playlist_9,Silent Hill - Shattered Memories (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Acceptance,spotify:track:0dX7idX80Cc1967CDTySBs
+2018-11-23 14:47:12,album,266031.0,24.0,false,playlist_9,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,O.r.t.,spotify:track:0Y8K3VOqUEOm1ciD1Gzk2Z
+2018-11-23 14:46:52,album,340662.0,28.0,false,playlist_9,Silent Hill - Shattered Memories (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Hell Frozen Rain,spotify:track:5XKMBzWzALaSS9UtPMd5ir
+2018-11-23 14:47:02,album,242155.0,26.0,false,playlist_9,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Shot Down in Flames,spotify:track:1BAAmnJ2Ei5fCXAZjBQRY1
+2018-11-23 14:47:24,album,250958.0,21.0,false,playlist_9,Silent Hill Origins (Konami Original Game Soundtrack),Mary Elizabeth McGlynn,Hole in the Sky,spotify:track:7gcLA8dBxqF4B9OfW9EYxZ
+2018-11-23 14:47:54,album,273068.0,14.0,false,playlist_9,Ex Umbra in Solem,Diego Reynoso,Whose Thoughts Are Mine?,spotify:track:7dkRoXQrEqItHzl7epel75
+2018-11-23 14:57:01,album,168786.0,19.0,false,playlist_9,Silent Hill Downpour,Daniel Licht,Intro Perk Walk,spotify:track:4TS3ifXiwL1OPPGlvVBBnr
+2018-11-23 14:57:07,album,222120.0,11.0,false,playlist_9,Silent Hill Downpour,Daniel Licht,Bus To Nowhere,spotify:track:0GS79EtnOljItGNIUeDbkI
+2018-11-23 15:02:12,album,256079.0,27.0,false,playlist_9,Best Of Silent Hill: Music From The Video Game Series,Edgar Rothermich,I Want Love,spotify:track:6J3iuk9JiTHQZ5l3O9yW6y
+2018-11-23 15:08:08,album,278413.0,22.0,false,playlist_9,Silent Hill - Homecoming (Konami Original Game Soundtrack),Akira Yamaoka,This Sacred Line,spotify:track:4EOF63CyjLoWVee0sndqpW
+2018-11-23 15:11:46,album,336453.0,20.0,false,playlist_9,Silent Hill Revelation 3d (Original Motion Picture Soundtrack),Jeff Danna,Silent Scream,spotify:track:75ksvPl7SSzLgNJBn43l56
